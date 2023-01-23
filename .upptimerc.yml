@@ -17,13 +17,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /openfoodfacts-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg
   name: OpenFoodFacts status
   introTitle: "Status page for OpenFoodFacts infrastructure"
   # introMessage: 
   navbar:
-    - title: Status
-      href: /
+    - title: OpenFoodFacts
+      href: https://world.openfoodfacts.org/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
