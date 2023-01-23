@@ -4,18 +4,20 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3425,
-    "timeDay": 3762,
-    "timeWeek": 3436,
-    "timeMonth": 3425,
-    "timeYear": 3425,
-    "dailyMinutesDown": {}
+    "time": 3380,
+    "timeDay": 3476,
+    "timeWeek": 3354,
+    "timeMonth": 3380,
+    "timeYear": 3380,
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   },
   {
     "name": "Hunger Games",
