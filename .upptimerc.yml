@@ -11,6 +11,8 @@ sites:
     url: https://world.openfoodfacts.net
     headers:
       - "Authorization: Basic b2ZmOm9mZg=="
+  - name: Folksonomy Engine
+    url: https://api.folksonomy.openfoodfacts.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
