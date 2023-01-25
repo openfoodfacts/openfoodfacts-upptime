@@ -61,19 +61,19 @@
     "url": "https://api.folksonomy.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.folksonomy.openfoodfacts.org.ico",
     "slug": "folksonomy-engine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 793,
-    "timeWeek": 674,
-    "timeMonth": 674,
-    "timeYear": 674,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 800,
+    "timeDay": 986,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 10
     }
   }
 ]
