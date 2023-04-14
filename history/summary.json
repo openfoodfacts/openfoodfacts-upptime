@@ -147,7 +147,7 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "99.42%",
     "uptimeWeek": "99.85%",
