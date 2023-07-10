@@ -39,7 +39,9 @@ sites:
     url: https://connect.openfoodfacts.org/
 
   - name: Monitoring platform
-    url: "https://$ALERT_MANAGER_BASICAUTH@alertmanager.openfoodfacts.org/#/alerts"
+    url: "https://alertmanager.openfoodfacts.org/#/alerts"
+    headers:
+      - "Authorization: Basic $ALERT_MANAGER_BASICAUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
