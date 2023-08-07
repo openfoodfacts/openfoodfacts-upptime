@@ -7,10 +7,10 @@ sites:
     url: https://world.openfoodfacts.org
 
   - name: API v3
-    url: https://world.openfoodfacts.org/api/v3/product/111111.json
+    url: https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code
     
   - name: API v2
-    url: https://world.openfoodfacts.org/api/v2/product/111111.json
+    url: https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code
 
   - name: Open Food Facts Images
     url: https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg
