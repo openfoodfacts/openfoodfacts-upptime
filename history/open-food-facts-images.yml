@@ -1,7 +1,7 @@
 url: https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-07T11:29:26.156Z
+status: up
+code: 200
+responseTime: 900
+lastUpdated: 2023-09-07T11:35:52.699Z
 startTime: 2023-07-10T16:39:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
