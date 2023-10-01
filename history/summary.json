@@ -204,18 +204,19 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "92.60%",
-    "uptimeYear": "97.32%",
+    "status": "down",
+    "uptime": "97.33%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "92.61%",
+    "uptimeYear": "97.33%",
     "time": 2312,
     "timeDay": 1858,
     "timeWeek": 1698,
     "timeMonth": 2077,
     "timeYear": 2312,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-09-30": 57,
       "2023-09-29": 71,
       "2023-09-28": 86,
@@ -265,7 +266,7 @@
       "2023-08-14": 53,
       "2023-08-13": 70,
       "2023-08-12": 48,
-      "2023-08-11": 21
+      "2023-08-11": 14
     }
   },
   {
