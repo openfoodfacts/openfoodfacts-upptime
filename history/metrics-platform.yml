@@ -1,7 +1,7 @@
 url: https://metrics.openfoodfacts.org
-status: up
-code: 200
-responseTime: 4763
-lastUpdated: 2023-11-04T11:38:08.830Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-04T11:52:37.222Z
 startTime: 2023-03-20T22:33:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
