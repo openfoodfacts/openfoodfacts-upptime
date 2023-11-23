@@ -362,10 +362,10 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "91.88%",
     "uptimeYear": "98.99%",
     "time": 1358,
@@ -374,7 +374,7 @@
     "timeMonth": 1340,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2023-11-23": 48,
+      "2023-11-23": 49,
       "2023-11-22": 14,
       "2023-11-21": 99,
       "2023-11-20": 25,
@@ -403,8 +403,7 @@
       "2023-10-26": 19,
       "2023-10-22": 7,
       "2023-10-21": 7,
-      "2023-10-20": 9,
-      "2023-10-19": 7
+      "2023-10-20": 9
     }
   },
   {
