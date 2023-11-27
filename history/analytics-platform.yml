@@ -1,7 +1,7 @@
 url: https://analytics.openfoodfacts.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-27T15:18:13.192Z
+status: up
+code: 200
+responseTime: 19293
+lastUpdated: 2023-11-27T15:25:43.292Z
 startTime: 2023-03-20T22:33:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
