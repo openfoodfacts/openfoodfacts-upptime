@@ -411,10 +411,10 @@
     "url": "https://analytics.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.openfoodfacts.org.ico",
     "slug": "analytics-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.36%",
     "time": 2205,
@@ -423,7 +423,7 @@
     "timeMonth": 3590,
     "timeYear": 2205,
     "dailyMinutesDown": {
-      "2023-11-28": 4,
+      "2023-11-28": 5,
       "2023-11-27": 93,
       "2023-11-26": 6,
       "2023-11-25": 6,
@@ -452,7 +452,7 @@
       "2023-10-01": 64,
       "2023-09-30": 85,
       "2023-09-28": 20,
-      "2023-09-27": 19
+      "2023-09-27": 12
     }
   },
   {
