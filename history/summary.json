@@ -123,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
     "status": "up",
-    "uptime": "91.75%",
+    "uptime": "91.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "91.75%",
+    "uptimeYear": "91.76%",
     "time": 1193,
     "timeDay": 86,
     "timeWeek": 108,
@@ -411,10 +411,10 @@
     "url": "https://analytics.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.openfoodfacts.org.ico",
     "slug": "analytics-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "75.36%",
-    "uptimeWeek": "95.27%",
+    "uptimeDay": "75.32%",
+    "uptimeWeek": "95.28%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.29%",
     "time": 2304,
@@ -451,7 +451,7 @@
       "2023-10-03": 12,
       "2023-10-02": 39,
       "2023-10-01": 64,
-      "2023-09-30": 54
+      "2023-09-30": 49
     }
   },
   {
