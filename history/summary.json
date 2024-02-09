@@ -423,10 +423,10 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "80.63%",
+    "uptimeDay": "88.29%",
+    "uptimeWeek": "80.62%",
     "uptimeMonth": "92.50%",
     "uptimeYear": "99.22%",
     "time": 1375,
@@ -473,7 +473,7 @@
       "2023-12-23": 42,
       "2023-12-18": 12,
       "2023-12-17": 43,
-      "2023-12-16": 21
+      "2023-12-16": 7
     }
   },
   {
