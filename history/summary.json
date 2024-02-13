@@ -231,7 +231,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "92.71%",
-    "uptimeDay": "58.85%",
+    "uptimeDay": "59.51%",
     "uptimeWeek": "82.33%",
     "uptimeMonth": "83.89%",
     "uptimeYear": "92.71%",
@@ -426,9 +426,9 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "83.59%",
+    "uptimeDay": "84.22%",
     "uptimeWeek": "90.71%",
     "uptimeMonth": "91.03%",
     "uptimeYear": "99.15%",
@@ -462,8 +462,7 @@
       "2024-01-13": 17,
       "2024-01-12": 7,
       "2024-01-11": 58,
-      "2024-01-10": 17,
-      "2024-01-09": 9
+      "2024-01-10": 17
     }
   },
   {
