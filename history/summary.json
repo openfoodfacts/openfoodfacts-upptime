@@ -446,12 +446,12 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.07%",
+    "uptimeDay": "99.03%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 1385,
     "timeDay": 1118,
     "timeWeek": 1296,
@@ -492,7 +492,7 @@
       "2024-03-01": 22,
       "2024-02-29": 74,
       "2024-02-28": 23,
-      "2024-02-27": 31
+      "2024-02-27": 24
     }
   },
   {
