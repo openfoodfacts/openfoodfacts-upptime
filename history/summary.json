@@ -14,7 +14,7 @@
     "timeDay": 1767,
     "timeWeek": 1820,
     "timeMonth": 2366,
-    "timeYear": 3681,
+    "timeYear": 3682,
     "dailyMinutesDown": {
       "2024-04-18": 16,
       "2024-04-17": 15,
@@ -264,19 +264,19 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "up",
-    "uptime": "97.36%",
-    "uptimeDay": "95.08%",
+    "status": "down",
+    "uptime": "97.38%",
+    "uptimeDay": "95.05%",
     "uptimeWeek": "94.15%",
     "uptimeMonth": "87.98%",
-    "uptimeYear": "97.36%",
-    "time": 2223,
-    "timeDay": 2450,
-    "timeWeek": 1906,
-    "timeMonth": 1870,
-    "timeYear": 2223,
+    "uptimeYear": "97.38%",
+    "time": 2222,
+    "timeDay": 1889,
+    "timeWeek": 1852,
+    "timeMonth": 1861,
+    "timeYear": 2222,
     "dailyMinutesDown": {
-      "2024-04-18": 71,
+      "2024-04-18": 72,
       "2024-04-17": 80,
       "2024-04-16": 50,
       "2024-04-15": 8,
@@ -326,7 +326,7 @@
       "2024-02-29": 59,
       "2024-02-28": 8,
       "2024-02-27": 49,
-      "2024-02-26": 83
+      "2024-02-26": 12
     }
   },
   {
@@ -459,7 +459,7 @@
     "timeDay": 1027,
     "timeWeek": 1214,
     "timeMonth": 1305,
-    "timeYear": 1386,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2024-04-16": 15,
       "2024-04-13": 7,
