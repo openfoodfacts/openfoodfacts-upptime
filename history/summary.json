@@ -272,9 +272,9 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "94.91%",
+    "uptimeDay": "94.92%",
     "uptimeWeek": "95.61%",
-    "uptimeMonth": "89.46%",
+    "uptimeMonth": "89.62%",
     "uptimeYear": "97.40%",
     "time": 2213,
     "timeDay": 2341,
@@ -456,9 +456,9 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.10%",
+    "uptimeDay": "98.07%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.79%",
@@ -468,6 +468,7 @@
     "timeMonth": 1326,
     "timeYear": 1386,
     "dailyMinutesDown": {
+      "2024-04-24": 1,
       "2024-04-23": 27,
       "2024-04-21": 7,
       "2024-04-16": 15,
@@ -505,8 +506,7 @@
       "2024-03-06": 42,
       "2024-03-05": 7,
       "2024-03-04": 32,
-      "2024-03-03": 17,
-      "2024-03-02": 9
+      "2024-03-03": 17
     }
   },
   {
@@ -563,12 +563,12 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.46%",
     "time": 1389,
     "timeDay": 1263,
     "timeWeek": 971,
-    "timeMonth": 947,
+    "timeMonth": 945,
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2024-03-25": 6,
