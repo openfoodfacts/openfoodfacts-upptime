@@ -1,7 +1,7 @@
 url: https://alertmanager.openfoodfacts.org/#/alerts
 status: up
 code: 200
-responseTime: 551
-lastUpdated: 2024-05-06T23:06:42.068Z
+responseTime: 450
+lastUpdated: 2024-05-07T23:06:16.063Z
 startTime: 2023-07-10T16:47:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
