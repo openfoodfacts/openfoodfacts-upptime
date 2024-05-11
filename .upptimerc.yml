@@ -8,13 +8,13 @@ sites:
 
   - name: API v3
     url: https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code
-    
+
   - name: API v2
     url: https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code
 
   - name: Open Food Facts Images
     url: https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg
-  
+
   - name: Staging deployment
     url: https://world.openfoodfacts.net
     headers:
@@ -34,7 +34,7 @@ sites:
 
   - name: Analytics platform
     url: https://analytics.openfoodfacts.org
-  
+
   - name: Metrics platform
     url: https://metrics.openfoodfacts.org
 
@@ -46,6 +46,14 @@ sites:
     headers:
       - "Authorization: Basic $ALERT_MANAGER_BASICAUTH"
 
+  - name: Search
+    url: https://search.openfoodfacts.org/?q=Nutella
+
+  - name: Search (staging)
+    url: https://search.openfoodfacts.net/?q=Nutella
+    headers:
+      - "Authorization: Basic b2ZmOm9mZg=="
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -54,7 +62,6 @@ status-website:
   logoUrl: https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg
   name: OpenFoodFacts status
   introTitle: "Status page for OpenFoodFacts infrastructure"
-  # introMessage: 
   navbar:
     - title: OpenFoodFacts
       href: https://world.openfoodfacts.org/
