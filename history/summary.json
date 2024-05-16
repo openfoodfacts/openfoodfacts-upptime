@@ -4,19 +4,19 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "92.95%",
-    "uptimeWeek": "87.60%",
-    "uptimeMonth": "95.88%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "87.57%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.54%",
-    "time": 3623,
-    "timeDay": 7298,
-    "timeWeek": 3389,
-    "timeMonth": 2916,
-    "timeYear": 3465,
+    "time": 3619,
+    "timeDay": 6871,
+    "timeWeek": 3342,
+    "timeMonth": 2903,
+    "timeYear": 3461,
     "dailyMinutesDown": {
-      "2024-05-16": 76,
+      "2024-05-16": 78,
       "2024-05-15": 85,
       "2024-05-14": 43,
       "2024-05-13": 469,
@@ -60,8 +60,7 @@
       "2024-03-25": 19,
       "2024-03-24": 6,
       "2024-03-19": 218,
-      "2024-03-17": 7,
-      "2024-03-15": 7
+      "2024-03-17": 7
     }
   },
   {
@@ -69,10 +68,10 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "88.24%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "88.23%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "99.36%",
     "time": 878,
@@ -81,7 +80,7 @@
     "timeMonth": 1130,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2024-05-16": 74,
+      "2024-05-16": 75,
       "2024-05-15": 86,
       "2024-05-14": 45,
       "2024-05-13": 456,
@@ -127,7 +126,7 @@
       "2023-11-24": 18,
       "2023-11-22": 21,
       "2023-11-20": 10,
-      "2023-11-05": 97
+      "2023-11-05": 92
     }
   },
   {
@@ -135,16 +134,16 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "88.34%",
+    "status": "down",
+    "uptime": "95.24%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "88.33%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "95.23%",
+    "uptimeYear": "95.24%",
     "time": 964,
-    "timeDay": 3381,
-    "timeWeek": 1500,
-    "timeMonth": 1210,
+    "timeDay": 3219,
+    "timeWeek": 1481,
+    "timeMonth": 1205,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2024-05-16": 67,
@@ -212,8 +211,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 385,
-      "2023-07-07": 4,
-      "2023-07-06": 6
+      "2023-07-07": 4
     }
   },
   {
