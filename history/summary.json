@@ -4,19 +4,19 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "90.76%",
-    "uptimeWeek": "84.45%",
-    "uptimeMonth": "95.09%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "84.42%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "99.57%",
-    "time": 3641,
-    "timeDay": 4113,
-    "timeWeek": 4250,
-    "timeMonth": 3275,
-    "timeYear": 3522,
+    "time": 3637,
+    "timeDay": 3903,
+    "timeWeek": 4197,
+    "timeMonth": 3259,
+    "timeYear": 3518,
     "dailyMinutesDown": {
-      "2024-05-18": 84,
+      "2024-05-18": 87,
       "2024-05-17": 108,
       "2024-05-16": 250,
       "2024-05-15": 85,
@@ -52,7 +52,7 @@
       "2024-04-11": 8,
       "2024-04-10": 7,
       "2024-04-07": 8,
-      "2024-04-06": 29
+      "2024-04-06": 20
     }
   },
   {
@@ -60,10 +60,10 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "85.24%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "85.23%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "99.48%",
     "time": 961,
@@ -72,7 +72,7 @@
     "timeMonth": 1411,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2024-05-18": 46,
+      "2024-05-18": 48,
       "2024-05-17": 95,
       "2024-05-16": 246,
       "2024-05-15": 86,
@@ -114,7 +114,7 @@
       "2024-02-11": 18,
       "2024-02-08": 6,
       "2024-02-02": 7,
-      "2024-01-24": 11
+      "2024-01-24": 4
     }
   },
   {
@@ -122,9 +122,9 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "94.47%",
     "uptimeWeek": "85.66%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "99.32%",
@@ -176,7 +176,7 @@
       "2023-11-24": 18,
       "2023-11-22": 21,
       "2023-11-20": 9,
-      "2023-11-05": 140
+      "2023-11-05": 133
     }
   },
   {
@@ -224,12 +224,12 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "95.75%",
+    "uptimeDay": "96.34%",
     "uptimeWeek": "94.58%",
     "uptimeMonth": "95.53%",
     "uptimeYear": "98.61%",
     "time": 2181,
-    "timeDay": 1832,
+    "timeDay": 2274,
     "timeWeek": 1648,
     "timeMonth": 1756,
     "timeYear": 2181,
