@@ -4,19 +4,19 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "84.58%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "84.57%",
     "uptimeMonth": "95.12%",
     "uptimeYear": "99.57%",
-    "time": 3626,
+    "time": 3627,
     "timeDay": 3443,
     "timeWeek": 4106,
     "timeMonth": 3213,
     "timeYear": 3506,
     "dailyMinutesDown": {
-      "2024-05-18": 72,
+      "2024-05-18": 73,
       "2024-05-17": 108,
       "2024-05-16": 250,
       "2024-05-15": 85,
@@ -52,8 +52,7 @@
       "2024-04-11": 8,
       "2024-04-10": 7,
       "2024-04-07": 8,
-      "2024-04-06": 29,
-      "2024-04-05": 7
+      "2024-04-06": 29
     }
   },
   {
@@ -61,16 +60,16 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "95.35%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "95.61%",
     "uptimeWeek": "85.36%",
     "uptimeMonth": "95.51%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.48%",
     "time": 955,
-    "timeDay": 4499,
-    "timeWeek": 2161,
-    "timeMonth": 1395,
+    "timeDay": 4550,
+    "timeWeek": 2136,
+    "timeMonth": 1390,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2024-05-18": 34,
@@ -115,8 +114,7 @@
       "2024-02-11": 18,
       "2024-02-08": 6,
       "2024-02-02": 7,
-      "2024-01-24": 11,
-      "2024-01-23": 234
+      "2024-01-24": 11
     }
   },
   {
@@ -124,17 +122,17 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "95.33%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "85.78%",
     "uptimeMonth": "95.67%",
     "uptimeYear": "99.32%",
-    "time": 1087,
-    "timeDay": 2845,
-    "timeWeek": 2424,
-    "timeMonth": 1625,
-    "timeYear": 1087,
+    "time": 1086,
+    "timeDay": 2649,
+    "timeWeek": 2391,
+    "timeMonth": 1616,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2024-05-18": 39,
       "2024-05-17": 73,
@@ -178,7 +176,7 @@
       "2023-11-24": 18,
       "2023-11-22": 21,
       "2023-11-20": 9,
-      "2023-11-05": 152
+      "2023-11-05": 140
     }
   },
   {
