@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "84.73%",
-    "uptimeMonth": "95.15%",
+    "uptime": "99.68%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "95.13%",
     "uptimeYear": "99.57%",
     "time": 3622,
     "timeDay": 4667,
@@ -16,7 +16,7 @@
     "timeMonth": 3168,
     "timeYear": 3494,
     "dailyMinutesDown": {
-      "2024-05-18": 57,
+      "2024-05-18": 66,
       "2024-05-17": 108,
       "2024-05-16": 250,
       "2024-05-15": 85,
@@ -61,19 +61,19 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "99.44%",
     "time": 942,
     "timeDay": 4127,
     "timeWeek": 2058,
     "timeMonth": 1348,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2024-05-18": 25,
+      "2024-05-18": 27,
       "2024-05-17": 95,
       "2024-05-16": 246,
       "2024-05-15": 86,
@@ -116,7 +116,7 @@
       "2024-02-08": 6,
       "2024-02-02": 7,
       "2024-01-24": 11,
-      "2024-01-23": 253
+      "2024-01-23": 234
     }
   },
   {
@@ -124,11 +124,11 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "95.35%",
+    "uptimeDay": "95.45%",
     "uptimeWeek": "85.85%",
-    "uptimeMonth": "95.69%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "99.32%",
     "time": 1077,
     "timeDay": 3256,
@@ -178,7 +178,7 @@
       "2023-11-24": 18,
       "2023-11-22": 21,
       "2023-11-20": 9,
-      "2023-11-05": 161
+      "2023-11-05": 152
     }
   },
   {
