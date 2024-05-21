@@ -4,11 +4,11 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 3633,
     "timeDay": 1710,
@@ -16,6 +16,7 @@
     "timeMonth": 3293,
     "timeYear": 3494,
     "dailyMinutesDown": {
+      "2024-05-21": 3,
       "2024-05-20": 302,
       "2024-05-19": 121,
       "2024-05-18": 146,
@@ -38,8 +39,7 @@
       "2024-05-01": 19,
       "2024-04-30": 7,
       "2024-04-28": 39,
-      "2024-04-27": 29,
-      "2024-04-26": 7
+      "2024-04-27": 29
     }
   },
   {
@@ -47,18 +47,19 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "90.72%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "90.88%",
     "uptimeMonth": "94.62%",
     "uptimeYear": "99.51%",
-    "time": 1105,
-    "timeDay": 3031,
-    "timeWeek": 2963,
-    "timeMonth": 1890,
-    "timeYear": 1105,
+    "time": 1104,
+    "timeDay": 2804,
+    "timeWeek": 2967,
+    "timeMonth": 1882,
+    "timeYear": 1104,
     "dailyMinutesDown": {
+      "2024-05-21": 2,
       "2024-05-20": 282,
       "2024-05-19": 87,
       "2024-05-18": 102,
@@ -86,8 +87,7 @@
       "2024-04-19": 26,
       "2024-04-18": 9,
       "2024-04-16": 3,
-      "2024-04-15": 25,
-      "2024-04-13": 7
+      "2024-04-15": 25
     }
   },
   {
@@ -95,18 +95,19 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "87.75%",
-    "uptimeWeek": "91.47%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "91.65%",
     "uptimeMonth": "94.83%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 1226,
     "timeDay": 4745,
-    "timeWeek": 3037,
+    "timeWeek": 3071,
     "timeMonth": 2030,
     "timeYear": 1226,
     "dailyMinutesDown": {
+      "2024-05-21": 0,
       "2024-05-20": 264,
       "2024-05-19": 76,
       "2024-05-18": 100,
@@ -138,8 +139,7 @@
       "2024-04-05": 15,
       "2024-04-04": 9,
       "2024-04-03": 2,
-      "2024-03-30": 170,
-      "2024-03-25": 12
+      "2024-03-30": 170
     }
   },
   {
@@ -194,7 +194,7 @@
     "time": 2178,
     "timeDay": 1550,
     "timeWeek": 1569,
-    "timeMonth": 1781,
+    "timeMonth": 1778,
     "timeYear": 2178,
     "dailyMinutesDown": {
       "2024-05-21": 74,
