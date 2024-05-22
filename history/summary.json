@@ -6,9 +6,9 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "88.84%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "88.76%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 3626,
     "timeDay": 3676,
@@ -16,7 +16,7 @@
     "timeMonth": 3372,
     "timeYear": 3491,
     "dailyMinutesDown": {
-      "2024-05-22": 59,
+      "2024-05-22": 67,
       "2024-05-21": 92,
       "2024-05-20": 302,
       "2024-05-19": 121,
@@ -43,10 +43,10 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "90.45%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "90.44%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "99.51%",
     "time": 1197,
@@ -55,7 +55,7 @@
     "timeMonth": 2197,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2024-05-22": 48,
+      "2024-05-22": 49,
       "2024-05-21": 65,
       "2024-05-20": 282,
       "2024-05-19": 87,
@@ -78,7 +78,7 @@
       "2024-04-27": 22,
       "2024-04-26": 24,
       "2024-04-23": 19,
-      "2024-04-22": 14
+      "2024-04-22": 7
     }
   },
   {
@@ -86,11 +86,11 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "87.17%",
+    "uptimeDay": "87.14%",
     "uptimeWeek": "90.18%",
-    "uptimeMonth": "94.39%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "99.50%",
     "time": 1328,
     "timeDay": 5033,
@@ -98,7 +98,7 @@
     "timeMonth": 2338,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2024-05-22": 9,
+      "2024-05-22": 10,
       "2024-05-21": 194,
       "2024-05-20": 264,
       "2024-05-19": 76,
@@ -125,8 +125,7 @@
       "2024-04-23": 7,
       "2024-04-22": 15,
       "2024-04-19": 25,
-      "2024-04-18": 9,
-      "2024-04-15": 24
+      "2024-04-18": 9
     }
   },
   {
