@@ -599,10 +599,10 @@
     "url": "https://search.openfoodfacts.net/?q=Nutella",
     "icon": "https://icons.duckduckgo.com/ip3/search.openfoodfacts.net.ico",
     "slug": "search-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
@@ -610,6 +610,8 @@
     "timeWeek": 1706,
     "timeMonth": 1245,
     "timeYear": 1245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 1
+    }
   }
 ]
