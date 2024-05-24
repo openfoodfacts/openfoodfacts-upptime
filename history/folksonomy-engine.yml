@@ -1,7 +1,7 @@
 url: https://api.folksonomy.openfoodfacts.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-24T15:53:18.566Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2024-05-24T15:59:55.013Z
 startTime: 2023-01-23T14:01:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
