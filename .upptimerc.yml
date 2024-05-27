@@ -65,16 +65,22 @@ sites:
     
   - name: Taxonomy editor (pre-prod)
     url: https://ui.taxonomy.openfoodfacts.net/
-    
+
+  - name: Open Prices
+    url: https://prices.openfoodfacts.org
+
+  - name: Open Prices (pre-prod)
+    url: https://prices.openfoodfacts.net
+
   - name: Made Near Me
     url: https://madenear.me/
-    
+
   - name: Emballé près de chez vous
     url: https://cestemballepresdechezvous.fr/
-    
+
   - name: Combien de Sucres
     url: https://combiendesucres.fr/
-    
+
   - name: How Much Sugar
     url: https://howmuchsugar.in/
 
