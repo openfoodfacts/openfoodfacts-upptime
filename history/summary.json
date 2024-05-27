@@ -13,7 +13,7 @@
     "time": 3789,
     "timeDay": 2577,
     "timeWeek": 5040,
-    "timeMonth": 4097,
+    "timeMonth": 4102,
     "timeYear": 3682,
     "dailyMinutesDown": {
       "2024-05-25": 40,
@@ -43,7 +43,7 @@
     "time": 1451,
     "timeDay": 5518,
     "timeWeek": 4485,
-    "timeMonth": 2855,
+    "timeMonth": 2868,
     "timeYear": 1451,
     "dailyMinutesDown": {
       "2024-05-26": 11,
@@ -338,10 +338,10 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "89.26%",
-    "uptimeWeek": "98.47%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.78%",
     "time": 1381,
@@ -350,7 +350,7 @@
     "timeMonth": 1329,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2024-05-27": 62,
+      "2024-05-27": 63,
       "2024-05-26": 93,
       "2024-05-18": 9,
       "2024-05-13": 17,
@@ -390,7 +390,7 @@
       "2024-03-21": 53,
       "2024-03-20": 118,
       "2024-03-19": 37,
-      "2024-03-18": 45
+      "2024-03-18": 24
     }
   },
   {
