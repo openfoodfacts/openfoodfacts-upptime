@@ -111,6 +111,9 @@ sites:
   - name: Open Food Facts Query
     url: https://query.openfoodfacts.org/health
 
+  - name: Datesette instance (Mirabelle)
+    url: https://mirabelle.openfoodfacts.org/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
