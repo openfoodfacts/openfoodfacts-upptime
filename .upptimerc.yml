@@ -6,6 +6,9 @@ sites:
   - name: Main website (Open Food Facts)
     url: https://world.openfoodfacts.org
 
+  - name: Pro Platform (Open Food Facts)
+    url: https://world.pro.openfoodfacts.org
+
   - name: API v3
     url: https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code
 
@@ -92,6 +95,15 @@ sites:
 
   - name: Open Products Facts
     url: https://world.openproductsfacts.org
+    
+  - name: Contribalim
+    url: https://contribalim.openfoodfacts.org/
+    
+  - name: Open Prices
+    url: https://prices.openfoodfacts.org/api/v1/status
+
+  - name: Open Food Facts Query
+    url: https://query.openfoodfacts.org/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
