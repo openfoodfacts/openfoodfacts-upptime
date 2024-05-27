@@ -107,9 +107,6 @@ sites:
     
   - name: Contribalim
     url: https://contribalim.openfoodfacts.org/
-    
-  - name: Open Prices
-    url: https://prices.openfoodfacts.org/api/v1/status
 
   - name: Open Food Facts Query
     url: https://query.openfoodfacts.org/health
