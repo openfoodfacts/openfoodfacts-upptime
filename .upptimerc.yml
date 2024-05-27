@@ -66,11 +66,14 @@ sites:
   - name: Taxonomy editor (pre-prod)
     url: https://ui.taxonomy.openfoodfacts.net/
 
-  - name: Open Prices
-    url: https://prices.openfoodfacts.org
+  - name: Open Prices API
+    url: https://prices.openfoodfacts.org/api/v1/status
 
-  - name: Open Prices (pre-prod)
-    url: https://prices.openfoodfacts.net
+  - name: Open Prices UI
+    url: https://prices.openfoodfacts.org/app
+
+  - name: Open Prices API (pre-prod)
+    url: https://prices.openfoodfacts.net/api/v1/status
 
   - name: Made Near Me
     url: https://madenear.me/
