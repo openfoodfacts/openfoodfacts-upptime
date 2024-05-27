@@ -3,7 +3,7 @@ owner: openfoodfacts # Your GitHub organization or username, where this reposito
 repo: openfoodfacts-upptime # The name of this repository
 
 sites:
-  - name: Main website
+  - name: Main website (Open Food Facts)
     url: https://world.openfoodfacts.org
 
   - name: API v3
@@ -56,7 +56,43 @@ sites:
 
   - name: Robotoff
     url: https://robotoff.openfoodfacts.org/api/v1/health
+
+  - name: Nutri-Patrol (production)
+    url: https://nutripatrol.openfoodfacts.org
+
+  - name: Knowledge panels for facets (net and org)
+    url: https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world
     
+  - name: Taxonomy editor (pre-prod)
+    url: https://ui.taxonomy.openfoodfacts.net/
+    
+  - name: Made Near Me
+    url: https://madenear.me/
+    
+  - name: Emballé près de chez vous
+    url: https://cestemballepresdechezvous.fr/
+    
+  - name: Combien de Sucres
+    url: https://combiendesucres.fr/
+    
+  - name: How Much Sugar
+    url: https://howmuchsugar.in/
+
+  - name: Wiki
+    url: https://wiki.openfoodfacts.org
+
+  - name: Forum
+    url: https://forum.openfoodfacts.org
+
+  - name: Open Beauty Facts
+    url: https://world.openbeautyfacts.org
+
+  - name: Open Pet Food Facts
+    url: https://world.openpetfoodfacts.org
+
+  - name: Open Products Facts
+    url: https://world.openproductsfacts.org
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
