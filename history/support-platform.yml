@@ -1,7 +1,7 @@
 url: https://support.openfoodfacts.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-27T10:03:30.186Z
+status: up
+code: 200
+responseTime: 1493
+lastUpdated: 2024-05-27T10:32:42.615Z
 startTime: 2023-03-20T22:33:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
