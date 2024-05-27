@@ -619,18 +619,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/robotoff.openfoodfacts.org.ico",
     "slug": "robotoff",
     "status": "down",
-    "uptime": "62.97%",
-    "uptimeDay": "62.97%",
-    "uptimeWeek": "62.97%",
-    "uptimeMonth": "62.97%",
-    "uptimeYear": "62.97%",
+    "uptime": "45.77%",
+    "uptimeDay": "45.77%",
+    "uptimeWeek": "45.77%",
+    "uptimeMonth": "45.77%",
+    "uptimeYear": "45.77%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-27": 1
+      "2024-05-27": 2
     }
   }
 ]
