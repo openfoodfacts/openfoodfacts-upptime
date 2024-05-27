@@ -111,7 +111,7 @@ sites:
   - name: Open Food Facts Query
     url: https://query.openfoodfacts.org/health
 
-  - name: Datesette instance (Mirabelle)
+  - name: Datasette instance (Mirabelle)
     url: https://mirabelle.openfoodfacts.org/
 
 status-website:
