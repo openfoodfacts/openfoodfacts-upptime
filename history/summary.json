@@ -360,11 +360,11 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "45.22%",
-    "uptimeWeek": "81.65%",
-    "uptimeMonth": "95.78%",
+    "uptimeDay": "45.64%",
+    "uptimeWeek": "81.74%",
+    "uptimeMonth": "95.80%",
     "uptimeYear": "99.65%",
     "time": 1398,
     "timeDay": 1454,
@@ -372,10 +372,10 @@
     "timeMonth": 1450,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2024-06-05": 257,
+      "2024-06-05": 258,
       "2024-06-04": 714,
       "2024-06-03": 751,
-      "2024-06-02": 136
+      "2024-06-02": 126
     }
   },
   {
@@ -879,11 +879,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openbeautyfacts.org.ico",
     "slug": "open-beauty-facts",
     "status": "up",
-    "uptime": "91.40%",
+    "uptime": "91.41%",
     "uptimeDay": "99.61%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "91.40%",
-    "uptimeYear": "91.40%",
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "91.41%",
     "time": 1117,
     "timeDay": 923,
     "timeWeek": 1041,
