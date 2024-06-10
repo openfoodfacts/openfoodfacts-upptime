@@ -376,11 +376,11 @@
     "url": "https://support.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "52.40%",
-    "uptimeWeek": "81.29%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "52.45%",
+    "uptimeWeek": "81.45%",
+    "uptimeMonth": "95.73%",
     "uptimeYear": "99.64%",
     "time": 1410,
     "timeDay": 1769,
@@ -388,10 +388,10 @@
     "timeMonth": 1464,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2024-06-10": 294,
+      "2024-06-10": 295,
       "2024-06-09": 794,
       "2024-06-08": 759,
-      "2024-06-07": 46
+      "2024-06-07": 29
     }
   },
   {
@@ -801,11 +801,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
     "status": "up",
-    "uptime": "94.00%",
+    "uptime": "94.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "94.00%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "94.01%",
     "time": 3809,
     "timeDay": 3015,
     "timeWeek": 3181,
