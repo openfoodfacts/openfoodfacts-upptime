@@ -1,7 +1,7 @@
 url: https://query.openfoodfacts.org/health
-status: down
-code: 502
-responseTime: 1651
-lastUpdated: 2024-06-11T05:44:25.769Z
+status: up
+code: 200
+responseTime: 523
+lastUpdated: 2024-06-11T05:49:10.082Z
 startTime: 2024-05-27T12:27:20.819Z
 generator: Upptime <https://github.com/upptime/upptime>
