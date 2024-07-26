@@ -1,7 +1,7 @@
 url: https://forum.openfoodfacts.org
-status: up
-code: 200
-responseTime: 1319
-lastUpdated: 2024-07-25T23:08:13.612Z
+status: down
+code: 502
+responseTime: 774
+lastUpdated: 2024-07-26T14:09:14.031Z
 startTime: 2024-05-27T11:37:01.618Z
 generator: Upptime <https://github.com/upptime/upptime>
