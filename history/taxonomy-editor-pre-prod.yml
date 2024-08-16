@@ -1,7 +1,7 @@
 url: https://ui.taxonomy.openfoodfacts.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-15T23:02:54.903Z
+status: up
+code: 200
+responseTime: 841
+lastUpdated: 2024-08-16T08:22:53.903Z
 startTime: 2024-05-27T11:36:45.289Z
 generator: Upptime <https://github.com/upptime/upptime>
