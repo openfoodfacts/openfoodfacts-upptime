@@ -41,7 +41,7 @@ sites:
   - name: Metrics platform
     url: https://metrics.openfoodfacts.org
 
-  - name: Connect platform
+  - name: Connect platform (Odoo CRM)
     url: https://connect.openfoodfacts.org/
 
   - name: Monitoring platform
@@ -68,6 +68,9 @@ sites:
     
   - name: Taxonomy editor (pre-prod)
     url: https://ui.taxonomy.openfoodfacts.net/
+
+  - name: Taxonomy editor (prod)
+    url: https://ui.taxonomy.openfoodfacts.org/
 
   - name: Open Prices API
     url: https://prices.openfoodfacts.org/api/v1/status
