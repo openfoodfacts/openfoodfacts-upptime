@@ -117,6 +117,12 @@ sites:
   - name: Datasette instance (Mirabelle)
     url: https://mirabelle.openfoodfacts.org/
 
+  - name: Alert Manager
+    url: https://alertmanager.openfoodfacts.org/
+
+  - name: Prometheus
+    url: https://prometheus.openfoodfacts.org/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
