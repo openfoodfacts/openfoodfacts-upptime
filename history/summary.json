@@ -807,10 +807,10 @@
     "url": "https://robotoff.openfoodfacts.org/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/robotoff.openfoodfacts.org.ico",
     "slug": "robotoff",
-    "status": "up",
+    "status": "down",
     "uptime": "94.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.22%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "96.42%",
     "uptimeMonth": "93.04%",
     "uptimeYear": "94.14%",
     "time": 2680,
@@ -819,6 +819,7 @@
     "timeMonth": 2785,
     "timeYear": 2680,
     "dailyMinutesDown": {
+      "2024-09-11": 2,
       "2024-09-09": 202,
       "2024-09-08": 7,
       "2024-09-07": 11,
@@ -865,8 +866,7 @@
       "2024-07-22": 126,
       "2024-07-21": 226,
       "2024-07-20": 7,
-      "2024-07-18": 13,
-      "2024-07-16": 9
+      "2024-07-18": 13
     }
   },
   {
@@ -1647,11 +1647,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alertmanager.openfoodfacts.org.ico",
     "slug": "alert-manager",
     "status": "down",
-    "uptime": "51.37%",
+    "uptime": "51.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.37%",
-    "uptimeYear": "51.37%",
+    "uptimeMonth": "51.40%",
+    "uptimeYear": "51.40%",
     "time": 438,
     "timeDay": 334,
     "timeWeek": 477,
