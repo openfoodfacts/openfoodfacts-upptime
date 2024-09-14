@@ -1,7 +1,7 @@
 url: https://contribalim.openfoodfacts.org/
-status: up
-code: 200
-responseTime: 260
-lastUpdated: 2024-09-14T10:01:09.986Z
+status: down
+code: 500
+responseTime: 1891
+lastUpdated: 2024-09-14T19:40:39.015Z
 startTime: 2024-05-27T12:27:19.205Z
 generator: Upptime <https://github.com/upptime/upptime>
