@@ -1,7 +1,7 @@
 url: https://robotoff.openfoodfacts.org/api/v1/health
-status: up
-code: 200
-responseTime: 1055
-lastUpdated: 2024-09-17T13:38:28.212Z
+status: down
+code: 500
+responseTime: 6120
+lastUpdated: 2024-09-17T13:45:56.447Z
 startTime: 2024-05-27T07:56:57.943Z
 generator: Upptime <https://github.com/upptime/upptime>
