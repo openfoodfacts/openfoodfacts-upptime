@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.59%",
     "uptimeDay": "98.19%",
-    "uptimeWeek": "93.22%",
+    "uptimeWeek": "93.86%",
     "uptimeMonth": "95.95%",
     "uptimeYear": "98.59%",
     "time": 3672,
     "timeDay": 1369,
-    "timeWeek": 3606,
+    "timeWeek": 3673,
     "timeMonth": 3310,
     "timeYear": 3672,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "uptimeYear": "96.08%",
     "time": 1422,
     "timeDay": 553,
-    "timeWeek": 863,
+    "timeWeek": 850,
     "timeMonth": 1185,
     "timeYear": 1422,
     "dailyMinutesDown": {
@@ -134,7 +134,7 @@
     "uptimeYear": "97.34%",
     "time": 1543,
     "timeDay": 4394,
-    "timeWeek": 1457,
+    "timeWeek": 1566,
     "timeMonth": 2430,
     "timeYear": 1650,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
     "uptimeYear": "96.36%",
     "time": 1511,
     "timeDay": 87,
-    "timeWeek": 887,
+    "timeWeek": 960,
     "timeMonth": 926,
     "timeYear": 1623,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
     "uptimeYear": "99.79%",
     "time": 1703,
     "timeDay": 1549,
-    "timeWeek": 1113,
+    "timeWeek": 1095,
     "timeMonth": 1210,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
     "uptimeYear": "98.52%",
     "time": 2018,
     "timeDay": 2051,
-    "timeWeek": 1597,
+    "timeWeek": 1557,
     "timeMonth": 1538,
     "timeYear": 2023,
     "dailyMinutesDown": {
@@ -399,7 +399,7 @@
     "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 303,
-    "timeWeek": 315,
+    "timeWeek": 304,
     "timeMonth": 291,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -420,7 +420,7 @@
     "uptimeYear": "98.42%",
     "time": 1294,
     "timeDay": 840,
-    "timeWeek": 838,
+    "timeWeek": 769,
     "timeMonth": 862,
     "timeYear": 1352,
     "dailyMinutesDown": {
@@ -460,8 +460,7 @@
       "2023-09-26": 8,
       "2023-09-23": 36,
       "2023-09-20": 55,
-      "2023-09-19": 20,
-      "2023-09-18": 17
+      "2023-09-19": 20
     }
   },
   {
@@ -477,7 +476,7 @@
     "uptimeYear": "98.16%",
     "time": 1872,
     "timeDay": 1108,
-    "timeWeek": 1303,
+    "timeWeek": 1236,
     "timeMonth": 1248,
     "timeYear": 1973,
     "dailyMinutesDown": {
@@ -512,8 +511,7 @@
       "2023-09-26": 7,
       "2023-09-23": 35,
       "2023-09-20": 53,
-      "2023-09-19": 19,
-      "2023-09-18": 7
+      "2023-09-19": 19
     }
   },
   {
@@ -529,7 +527,7 @@
     "uptimeYear": "96.64%",
     "time": 1427,
     "timeDay": 1300,
-    "timeWeek": 1458,
+    "timeWeek": 1307,
     "timeMonth": 1465,
     "timeYear": 1429,
     "dailyMinutesDown": {
@@ -567,7 +565,7 @@
     "uptimeYear": "97.65%",
     "time": 2574,
     "timeDay": 925,
-    "timeWeek": 1149,
+    "timeWeek": 1127,
     "timeMonth": 1132,
     "timeYear": 2750,
     "dailyMinutesDown": {
@@ -626,7 +624,7 @@
     "uptimeYear": "98.39%",
     "time": 1484,
     "timeDay": 702,
-    "timeWeek": 949,
+    "timeWeek": 883,
     "timeMonth": 943,
     "timeYear": 1608,
     "dailyMinutesDown": {
@@ -660,8 +658,7 @@
       "2023-10-20": 238,
       "2023-09-23": 26,
       "2023-09-20": 50,
-      "2023-09-19": 19,
-      "2023-09-18": 6
+      "2023-09-19": 19
     }
   },
   {
@@ -677,7 +674,7 @@
     "uptimeYear": "99.93%",
     "time": 1188,
     "timeDay": 1664,
-    "timeWeek": 1031,
+    "timeWeek": 1020,
     "timeMonth": 1188,
     "timeYear": 1188,
     "dailyMinutesDown": {
@@ -693,11 +690,11 @@
     "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.35%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "96.63%",
     "time": 1240,
     "timeDay": 649,
-    "timeWeek": 755,
+    "timeWeek": 730,
     "timeMonth": 688,
     "timeYear": 1326,
     "dailyMinutesDown": {
@@ -732,8 +729,7 @@
       "2023-10-20": 233,
       "2023-09-23": 18,
       "2023-09-20": 28,
-      "2023-09-19": 18,
-      "2023-09-18": 5
+      "2023-09-19": 18
     }
   },
   {
@@ -749,7 +745,7 @@
     "uptimeYear": "96.16%",
     "time": 1682,
     "timeDay": 882,
-    "timeWeek": 919,
+    "timeWeek": 889,
     "timeMonth": 1057,
     "timeYear": 1682,
     "dailyMinutesDown": {
@@ -776,14 +772,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.openfoodfacts.net.ico",
     "slug": "search-staging",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "96.32%",
+    "uptimeYear": "96.33%",
     "time": 1362,
     "timeDay": 911,
-    "timeWeek": 909,
+    "timeWeek": 853,
     "timeMonth": 943,
     "timeYear": 1362,
     "dailyMinutesDown": {
@@ -906,18 +902,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets-net-and-org",
     "status": "up",
-    "uptime": "94.32%",
+    "uptime": "94.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.92%",
-    "uptimeMonth": "91.04%",
-    "uptimeYear": "94.32%",
+    "uptimeWeek": "68.28%",
+    "uptimeMonth": "90.89%",
+    "uptimeYear": "94.28%",
     "time": 2811,
     "timeDay": 921,
     "timeWeek": 3131,
     "timeMonth": 2268,
     "timeYear": 2811,
     "dailyMinutesDown": {
-      "2024-09-16": 1388,
+      "2024-09-17": 13,
+      "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 292,
       "2024-09-13": 12,
@@ -972,11 +969,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.taxonomy.openfoodfacts.net.ico",
     "slug": "taxonomy-editor-pre-prod",
     "status": "up",
-    "uptime": "94.01%",
+    "uptime": "94.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "94.01%",
+    "uptimeYear": "94.02%",
     "time": 695,
     "timeDay": 608,
     "timeWeek": 681,
@@ -1124,7 +1121,7 @@
     "uptimeYear": "96.70%",
     "time": 4582,
     "timeDay": 12360,
-    "timeWeek": 5557,
+    "timeWeek": 5570,
     "timeMonth": 5824,
     "timeYear": 4582,
     "dailyMinutesDown": {
@@ -1189,7 +1186,7 @@
     "uptimeYear": "99.30%",
     "time": 4209,
     "timeDay": 4468,
-    "timeWeek": 4529,
+    "timeWeek": 4541,
     "timeMonth": 4805,
     "timeYear": 4209,
     "dailyMinutesDown": {
@@ -1254,7 +1251,7 @@
     "uptimeYear": "92.72%",
     "time": 1141,
     "timeDay": 588,
-    "timeWeek": 606,
+    "timeWeek": 578,
     "timeMonth": 1207,
     "timeYear": 1141,
     "dailyMinutesDown": {
@@ -1300,14 +1297,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/howmuchsugar.in.ico",
     "slug": "how-much-sugar",
     "status": "up",
-    "uptime": "94.15%",
+    "uptime": "94.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "94.15%",
+    "uptimeYear": "94.16%",
     "time": 648,
     "timeDay": 361,
-    "timeWeek": 445,
+    "timeWeek": 423,
     "timeMonth": 548,
     "timeYear": 648,
     "dailyMinutesDown": {
@@ -1351,7 +1348,7 @@
     "uptimeYear": "96.64%",
     "time": 1696,
     "timeDay": 1002,
-    "timeWeek": 947,
+    "timeWeek": 903,
     "timeMonth": 1956,
     "timeYear": 1696,
     "dailyMinutesDown": {
@@ -1384,14 +1381,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.openfoodfacts.org.ico",
     "slug": "forum",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "95.27%",
+    "uptimeYear": "95.28%",
     "time": 1105,
     "timeDay": 809,
-    "timeWeek": 892,
+    "timeWeek": 843,
     "timeMonth": 896,
     "timeYear": 1105,
     "dailyMinutesDown": {
@@ -1422,7 +1419,7 @@
     "uptimeYear": "98.97%",
     "time": 1582,
     "timeDay": 968,
-    "timeWeek": 1202,
+    "timeWeek": 1155,
     "timeMonth": 1927,
     "timeYear": 1582,
     "dailyMinutesDown": {
@@ -1472,7 +1469,7 @@
     "uptimeYear": "98.48%",
     "time": 1542,
     "timeDay": 993,
-    "timeWeek": 1327,
+    "timeWeek": 1264,
     "timeMonth": 1285,
     "timeYear": 1542,
     "dailyMinutesDown": {
@@ -1515,7 +1512,7 @@
     "uptimeYear": "90.97%",
     "time": 1349,
     "timeDay": 910,
-    "timeWeek": 1882,
+    "timeWeek": 1852,
     "timeMonth": 1472,
     "timeYear": 1349,
     "dailyMinutesDown": {
@@ -1556,14 +1553,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/contribalim.openfoodfacts.org.ico",
     "slug": "contribalim",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.41%",
     "time": 405,
     "timeDay": 429,
-    "timeWeek": 734,
+    "timeWeek": 770,
     "timeMonth": 461,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -1591,7 +1588,7 @@
     "uptimeYear": "98.08%",
     "time": 1305,
     "timeDay": 573,
-    "timeWeek": 861,
+    "timeWeek": 854,
     "timeMonth": 1513,
     "timeYear": 1305,
     "dailyMinutesDown": {
@@ -1647,7 +1644,7 @@
     "uptimeYear": "96.74%",
     "time": 669,
     "timeDay": 642,
-    "timeWeek": 565,
+    "timeWeek": 534,
     "timeMonth": 580,
     "timeYear": 669,
     "dailyMinutesDown": {
@@ -1671,14 +1668,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/alertmanager.openfoodfacts.org.ico",
     "slug": "alert-manager",
     "status": "down",
-    "uptime": "60.66%",
+    "uptime": "60.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.66%",
-    "uptimeYear": "60.66%",
+    "uptimeMonth": "60.72%",
+    "uptimeYear": "60.72%",
     "time": 431,
     "timeDay": 338,
-    "timeWeek": 422,
+    "timeWeek": 395,
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
