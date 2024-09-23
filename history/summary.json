@@ -4,11 +4,11 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website-open-food-facts",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "95.68%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "95.67%",
     "uptimeYear": "98.75%",
     "time": 3670,
     "timeDay": 8243,
@@ -16,7 +16,7 @@
     "timeMonth": 3657,
     "timeYear": 3670,
     "dailyMinutesDown": {
-      "2024-09-23": 36,
+      "2024-09-23": 40,
       "2024-09-22": 49,
       "2024-09-21": 31,
       "2024-09-20": 29,
@@ -50,8 +50,7 @@
       "2024-08-16": 43,
       "2024-08-15": 33,
       "2024-08-14": 17,
-      "2024-08-13": 27,
-      "2024-08-12": 6
+      "2024-08-13": 27
     }
   },
   {
@@ -896,7 +895,7 @@
     "status": "up",
     "uptime": "94.00%",
     "uptimeDay": "99.12%",
-    "uptimeWeek": "84.97%",
+    "uptimeWeek": "85.06%",
     "uptimeMonth": "90.03%",
     "uptimeYear": "94.00%",
     "time": 2790,
@@ -1109,19 +1108,19 @@
     "url": "https://madenear.me/",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "97.03%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "89.41%",
     "uptimeYear": "97.03%",
     "time": 4555,
     "timeDay": 3867,
     "timeWeek": 4046,
-    "timeMonth": 5692,
+    "timeMonth": 5725,
     "timeYear": 4555,
     "dailyMinutesDown": {
-      "2024-09-23": 15,
+      "2024-09-23": 18,
       "2024-09-22": 27,
       "2024-09-21": 6,
       "2024-09-20": 24,
@@ -1170,7 +1169,7 @@
       "2024-07-25": 15,
       "2024-07-24": 9,
       "2024-07-23": 45,
-      "2024-07-22": 10
+      "2024-07-22": 5
     }
   },
   {
@@ -1178,19 +1177,19 @@
     "url": "https://cestemballepresdechezvous.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "98.97%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 4156,
     "timeDay": 3314,
     "timeWeek": 3279,
-    "timeMonth": 4127,
+    "timeMonth": 4152,
     "timeYear": 4156,
     "dailyMinutesDown": {
-      "2024-09-23": 45,
+      "2024-09-23": 47,
       "2024-09-22": 21,
       "2024-09-19": 9,
       "2024-09-18": 18,
@@ -1234,8 +1233,7 @@
       "2024-07-08": 16,
       "2024-07-06": 14,
       "2024-07-05": 29,
-      "2024-07-04": 5,
-      "2024-07-02": 5
+      "2024-07-04": 5
     }
   },
   {
@@ -1694,7 +1692,7 @@
     "uptime": "68.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.35%",
+    "uptimeMonth": "77.37%",
     "uptimeYear": "68.11%",
     "time": 444,
     "timeDay": 614,
