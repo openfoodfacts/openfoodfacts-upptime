@@ -296,7 +296,7 @@
     "slug": "open-food-facts-images",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.51%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.69%",
@@ -1313,7 +1313,7 @@
     "timeMonth": 795,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2024-10-14": 1022,
+      "2024-10-14": 1023,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
