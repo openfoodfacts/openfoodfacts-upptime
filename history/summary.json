@@ -343,8 +343,7 @@
       "2024-04-06": 6,
       "2024-03-24": 5,
       "2024-02-11": 22,
-      "2024-01-23": 29,
-      "2023-12-05": 119
+      "2024-01-23": 29
     }
   },
   {
@@ -541,8 +540,7 @@
       "2024-02-07": 10,
       "2024-02-02": 4,
       "2024-01-09": 5,
-      "2023-12-11": 7,
-      "2023-12-05": 10
+      "2023-12-11": 7
     }
   },
   {
@@ -764,7 +762,8 @@
     "timeMonth": 850,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2024-12-03": 1419,
+      "2024-12-04": 16,
+      "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1179,7 +1178,7 @@
     "slug": "open-prices-api-pre-prod",
     "status": "up",
     "uptime": "95.46%",
-    "uptimeDay": "26.80%",
+    "uptimeDay": "29.42%",
     "uptimeWeek": "39.52%",
     "uptimeMonth": "86.08%",
     "uptimeYear": "95.46%",
@@ -1862,11 +1861,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alertmanager.openfoodfacts.org.ico",
     "slug": "alert-manager",
     "status": "down",
-    "uptime": "89.42%",
+    "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.42%",
+    "uptimeYear": "89.43%",
     "time": 450,
     "timeDay": 637,
     "timeWeek": 478,
