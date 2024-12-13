@@ -759,7 +759,7 @@
     "timeMonth": 835,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2024-12-13": 1151,
+      "2024-12-13": 1176,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -1298,19 +1298,19 @@
     "url": "https://cestemballepresdechezvous.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "97.77%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "97.78%",
     "time": 4039,
     "timeDay": 3664,
     "timeWeek": 3329,
     "timeMonth": 3300,
     "timeYear": 4039,
     "dailyMinutesDown": {
-      "2024-12-13": 6,
+      "2024-12-13": 7,
       "2024-12-10": 8,
       "2024-12-07": 4,
       "2024-12-06": 10,
@@ -1366,7 +1366,7 @@
       "2024-07-28": 7,
       "2024-07-25": 12,
       "2024-07-23": 25,
-      "2024-07-22": 100
+      "2024-07-22": 75
     }
   },
   {
