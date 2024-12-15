@@ -8,12 +8,12 @@
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.62%",
     "time": 3748,
     "timeDay": 1801,
     "timeWeek": 1420,
-    "timeMonth": 2768,
+    "timeMonth": 2801,
     "timeYear": 3748,
     "dailyMinutesDown": {
       "2024-12-01": 6,
@@ -759,7 +759,7 @@
     "timeMonth": 841,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-12-15": 611,
+      "2024-12-15": 667,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
@@ -1186,11 +1186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prices.openfoodfacts.net.ico",
     "slug": "open-prices-api-pre-prod",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.08%",
-    "uptimeYear": "95.71%",
+    "uptimeYear": "95.72%",
     "time": 723,
     "timeDay": 1239,
     "timeWeek": 755,
@@ -1221,11 +1221,11 @@
     "url": "https://madenear.me/",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.65%",
     "time": 4694,
     "timeDay": 6941,
@@ -1233,7 +1233,7 @@
     "timeMonth": 5155,
     "timeYear": 4694,
     "dailyMinutesDown": {
-      "2024-12-15": 52,
+      "2024-12-15": 55,
       "2024-12-14": 24,
       "2024-12-13": 55,
       "2024-12-10": 20,
@@ -1288,7 +1288,7 @@
       "2024-09-21": 6,
       "2024-09-20": 24,
       "2024-09-19": 18,
-      "2024-09-18": 18
+      "2024-09-18": 10
     }
   },
   {
@@ -1296,10 +1296,10 @@
     "url": "https://cestemballepresdechezvous.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "up",
+    "status": "down",
     "uptime": "97.81%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.81%",
     "time": 4157,
@@ -1308,7 +1308,7 @@
     "timeMonth": 4577,
     "timeYear": 4157,
     "dailyMinutesDown": {
-      "2024-12-15": 18,
+      "2024-12-15": 19,
       "2024-12-14": 40,
       "2024-12-13": 24,
       "2024-12-10": 8,
@@ -1363,8 +1363,7 @@
       "2024-08-06": 6,
       "2024-08-05": 6,
       "2024-08-04": 19,
-      "2024-07-28": 7,
-      "2024-07-25": 5
+      "2024-07-28": 7
     }
   },
   {
