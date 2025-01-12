@@ -330,19 +330,19 @@
     "url": "https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/images.openfoodfacts.org.ico",
     "slug": "open-food-facts-images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "73.51%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.70%",
-    "time": 1566,
+    "time": 1567,
     "timeDay": 8285,
     "timeWeek": 6809,
     "timeMonth": 4363,
     "timeYear": 1637,
     "dailyMinutesDown": {
-      "2025-01-12": 232,
+      "2025-01-12": 233,
       "2025-01-11": 358,
       "2025-01-10": 12,
       "2025-01-08": 20,
@@ -354,8 +354,7 @@
       "2024-09-30": 227,
       "2024-09-29": 262,
       "2024-09-28": 279,
-      "2024-09-27": 93,
-      "2024-09-25": 8
+      "2024-09-27": 93
     }
   },
   {
@@ -755,7 +754,7 @@
     "timeMonth": 843,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2025-01-12": 1179,
+      "2025-01-12": 1193,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
