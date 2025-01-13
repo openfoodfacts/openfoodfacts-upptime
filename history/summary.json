@@ -330,19 +330,19 @@
     "url": "https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/images.openfoodfacts.org.ico",
     "slug": "open-food-facts-images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "92.41%",
+    "uptimeDay": "84.70%",
+    "uptimeWeek": "92.38%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.69%",
     "time": 1611,
-    "timeDay": 8520,
+    "timeDay": 8541,
     "timeWeek": 7190,
     "timeMonth": 4870,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2025-01-13": 106,
+      "2025-01-13": 109,
       "2025-01-12": 268,
       "2025-01-11": 358,
       "2025-01-10": 12,
@@ -355,7 +355,7 @@
       "2024-09-30": 227,
       "2024-09-29": 262,
       "2024-09-28": 279,
-      "2024-09-27": 24
+      "2024-09-27": 16
     }
   },
   {
@@ -755,7 +755,7 @@
     "timeMonth": 841,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-01-13": 1051,
+      "2025-01-13": 1081,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -918,11 +918,11 @@
     "url": "https://robotoff.openfoodfacts.org/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/robotoff.openfoodfacts.org.ico",
     "slug": "robotoff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.24%",
     "time": 2647,
     "timeDay": 1007,
@@ -930,6 +930,7 @@
     "timeMonth": 1126,
     "timeYear": 2647,
     "dailyMinutesDown": {
+      "2025-01-13": 2,
       "2025-01-08": 5,
       "2025-01-06": 5,
       "2024-12-26": 7,
@@ -972,8 +973,7 @@
       "2024-09-04": 205,
       "2024-09-03": 72,
       "2024-09-02": 11,
-      "2024-09-01": 19,
-      "2024-08-31": 9
+      "2024-09-01": 19
     }
   },
   {
@@ -1405,11 +1405,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/combiendesucres.fr.ico",
     "slug": "combien-de-sucres",
     "status": "up",
-    "uptime": "90.64%",
+    "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.64%",
+    "uptimeYear": "90.65%",
     "time": 936,
     "timeDay": 455,
     "timeWeek": 605,
