@@ -1,7 +1,7 @@
 url: https://world.openfoodfacts.net
-status: down
-code: 502
-responseTime: 831
-lastUpdated: 2025-01-17T10:50:17.801Z
+status: up
+code: 200
+responseTime: 1444
+lastUpdated: 2025-01-17T10:56:56.810Z
 startTime: 2023-06-07T18:33:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
