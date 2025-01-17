@@ -759,7 +759,7 @@
     "timeMonth": 833,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-01-17": 1021,
+      "2025-01-17": 1041,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1020,11 +1020,11 @@
     "url": "https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world",
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets-net-and-org",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "96.68%",
     "time": 2788,
     "timeDay": 9690,
@@ -1032,7 +1032,7 @@
     "timeMonth": 4637,
     "timeYear": 2788,
     "dailyMinutesDown": {
-      "2025-01-17": 32,
+      "2025-01-17": 34,
       "2025-01-16": 6,
       "2025-01-15": 251,
       "2025-01-14": 85,
@@ -1095,7 +1095,7 @@
       "2024-07-16": 9,
       "2024-07-15": 19,
       "2024-07-11": 82,
-      "2024-07-09": 23
+      "2024-07-09": 13
     }
   },
   {
@@ -1411,11 +1411,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/combiendesucres.fr.ico",
     "slug": "combien-de-sucres",
     "status": "up",
-    "uptime": "90.78%",
+    "uptime": "90.79%",
     "uptimeDay": "98.76%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "90.78%",
+    "uptimeYear": "90.79%",
     "time": 923,
     "timeDay": 513,
     "timeWeek": 576,
