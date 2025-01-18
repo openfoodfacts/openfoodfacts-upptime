@@ -759,7 +759,7 @@
     "timeMonth": 829,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-01-18": 14,
+      "2025-01-18": 18,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -1021,10 +1021,10 @@
     "url": "https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world",
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets-net-and-org",
-    "status": "up",
+    "status": "down",
     "uptime": "96.70%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "95.73%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "96.70%",
     "time": 2920,
@@ -1033,6 +1033,7 @@
     "timeMonth": 5314,
     "timeYear": 2920,
     "dailyMinutesDown": {
+      "2025-01-18": 1,
       "2025-01-17": 72,
       "2025-01-16": 6,
       "2025-01-15": 251,
@@ -1094,8 +1095,7 @@
       "2024-07-22": 18,
       "2024-07-21": 131,
       "2024-07-16": 9,
-      "2024-07-15": 19,
-      "2024-07-11": 6
+      "2024-07-15": 19
     }
   },
   {
@@ -1255,18 +1255,19 @@
     "url": "https://madenear.me/",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.75%",
-    "time": 4729,
-    "timeDay": 3175,
-    "timeWeek": 3658,
-    "timeMonth": 3898,
-    "timeYear": 4729,
+    "time": 4723,
+    "timeDay": 2532,
+    "timeWeek": 3513,
+    "timeMonth": 3837,
+    "timeYear": 4723,
     "dailyMinutesDown": {
+      "2025-01-18": 1,
       "2025-01-17": 19,
       "2025-01-16": 22,
       "2025-01-15": 11,
@@ -1328,7 +1329,7 @@
       "2024-10-03": 16,
       "2024-10-02": 34,
       "2024-10-01": 72,
-      "2024-09-30": 21
+      "2024-09-30": 14
     }
   },
   {
