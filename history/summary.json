@@ -753,7 +753,7 @@
     "timeMonth": 812,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2025-01-20": 15,
+      "2025-01-20": 129,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -1017,18 +1017,19 @@
     "url": "https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world",
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets-net-and-org",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "93.70%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.10%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "93.66%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.11%",
     "time": 3375,
     "timeDay": 11206,
     "timeWeek": 10452,
     "timeMonth": 6911,
     "timeYear": 3375,
     "dailyMinutesDown": {
+      "2025-01-20": 4,
       "2025-01-19": 133,
       "2025-01-18": 91,
       "2025-01-17": 72,
@@ -1077,7 +1078,7 @@
       "2024-08-27": 11,
       "2024-08-22": 4,
       "2024-08-19": 420,
-      "2024-08-18": 207
+      "2024-08-18": 198
     }
   },
   {
@@ -1086,11 +1087,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.taxonomy.openfoodfacts.net.ico",
     "slug": "taxonomy-editor-pre-prod",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 734,
     "timeDay": 845,
     "timeWeek": 714,
@@ -1853,11 +1854,11 @@
     "url": "https://query.openfoodfacts.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/query.openfoodfacts.org.ico",
     "slug": "open-food-facts-query",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.71%",
     "time": 1193,
     "timeDay": 956,
@@ -1865,6 +1866,7 @@
     "timeMonth": 905,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2025-01-20": 3,
       "2025-01-19": 12,
       "2025-01-18": 15,
       "2025-01-17": 7,
@@ -1915,7 +1917,7 @@
       "2024-06-01": 51,
       "2024-05-31": 7,
       "2024-05-30": 23,
-      "2024-05-29": 19
+      "2024-05-29": 8
     }
   },
   {
