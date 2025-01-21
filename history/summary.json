@@ -754,7 +754,7 @@
     "timeMonth": 800,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2025-01-21": 893,
+      "2025-01-21": 932,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -1020,19 +1020,19 @@
     "url": "https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world",
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets-net-and-org",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "86.74%",
-    "uptimeWeek": "91.60%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "91.59%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 3923,
-    "timeDay": 13809,
+    "timeDay": 14489,
     "timeWeek": 11247,
     "timeMonth": 8333,
     "timeYear": 3923,
     "dailyMinutesDown": {
-      "2025-01-21": 126,
+      "2025-01-21": 128,
       "2025-01-20": 112,
       "2025-01-19": 133,
       "2025-01-18": 91,
@@ -1064,8 +1064,7 @@
       "2024-09-30": 29,
       "2024-09-27": 7,
       "2024-09-24": 176,
-      "2024-09-23": 410,
-      "2024-09-22": 8
+      "2024-09-23": 410
     }
   },
   {
