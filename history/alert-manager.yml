@@ -1,7 +1,7 @@
 url: https://alertmanager.openfoodfacts.org/-/healthy
 status: down
 code: 401
-responseTime: 431
-lastUpdated: 2025-01-25T23:07:12.149Z
+responseTime: 355
+lastUpdated: 2025-01-26T23:06:56.896Z
 startTime: 2024-08-19T06:49:48.353Z
 generator: Upptime <https://github.com/upptime/upptime>
