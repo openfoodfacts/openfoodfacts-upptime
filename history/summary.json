@@ -362,7 +362,7 @@
     "time": 1781,
     "timeDay": 1873,
     "timeWeek": 1691,
-    "timeMonth": 1614,
+    "timeMonth": 1622,
     "timeYear": 1796,
     "dailyMinutesDown": {
       "2025-01-27": 11,
@@ -743,7 +743,7 @@
     "timeMonth": 808,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2025-01-28": 529,
+      "2025-01-28": 610,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1861,18 +1861,19 @@
     "url": "https://query.openfoodfacts.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/query.openfoodfacts.org.ico",
     "slug": "open-food-facts-query",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.76%",
-    "time": 1169,
-    "timeDay": 757,
-    "timeWeek": 726,
-    "timeMonth": 867,
-    "timeYear": 1169,
+    "time": 1176,
+    "timeDay": 1859,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 1176,
     "dailyMinutesDown": {
+      "2025-01-28": 2,
       "2025-01-27": 10,
       "2025-01-26": 2,
       "2025-01-24": 13,
@@ -1924,7 +1925,7 @@
       "2024-06-16": 814,
       "2024-06-12": 10,
       "2024-06-11": 25,
-      "2024-06-10": 50
+      "2024-06-10": 42
     }
   },
   {
