@@ -3,6 +3,7 @@ owner: openfoodfacts # Your GitHub organization or username, where this reposito
 repo: openfoodfacts-upptime # The name of this repository
 
 sites:
+  # Production
   - name: Main website (Open Food Facts)
     url: https://world.openfoodfacts.org
 
@@ -17,11 +18,6 @@ sites:
 
   - name: Open Food Facts Images
     url: https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg
-
-  - name: Staging deployment
-    url: https://world.openfoodfacts.net
-    headers:
-      - "Authorization: Basic b2ZmOm9mZg=="
 
   - name: Hunger Games
     url: https://hunger.openfoodfacts.org
@@ -42,7 +38,7 @@ sites:
     url: https://metrics.openfoodfacts.org
 
   - name: Connect platform (Odoo CRM)
-    url: https://connect.openfoodfacts.org/
+    url: https://connect.openfoodfacts.org
 
   - name: Monitoring platform
     url: "https://alertmanager.openfoodfacts.org/#/alerts"
@@ -57,25 +53,17 @@ sites:
   - name: Search
     url: https://search.openfoodfacts.org/?q=Nutella
 
-  - name: Search (staging)
-    url: https://search.openfoodfacts.net/?q=Nutella
-    headers:
-      - "Authorization: Basic b2ZmOm9mZg=="
-
   - name: Robotoff
     url: https://robotoff.openfoodfacts.org/api/v1/health
 
-  - name: Nutri-Patrol (production)
+  - name: Nutri-Patrol
     url: https://nutripatrol.openfoodfacts.org
 
-  - name: Knowledge panels for facets (net and org)
+  - name: Knowledge panels for facets
     url: https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world
-    
-  - name: Taxonomy editor (pre-prod)
-    url: https://ui.taxonomy.openfoodfacts.net/
 
-  - name: Taxonomy editor (prod)
-    url: https://ui.taxonomy.openfoodfacts.org/
+  - name: Taxonomy editor
+    url: https://ui.taxonomy.openfoodfacts.org
 
   - name: Open Prices API
     url: https://prices.openfoodfacts.org/api/v1/status
@@ -83,20 +71,17 @@ sites:
   - name: Open Prices UI
     url: https://prices.openfoodfacts.org/app
 
-  - name: Open Prices API (pre-prod)
-    url: https://prices.openfoodfacts.net/api/v1/status
-
   - name: Made Near Me
-    url: https://madenear.me/
+    url: https://madenear.me
 
   - name: Emballé près de chez vous
-    url: https://cestemballepresdechezvous.fr/
+    url: https://cestemballepresdechezvous.fr
 
   - name: Combien de Sucres
-    url: https://combiendesucres.fr/
+    url: https://combiendesucres.fr
 
   - name: How Much Sugar
-    url: https://howmuchsugar.in/
+    url: https://howmuchsugar.in
 
   - name: Wiki
     url: https://wiki.openfoodfacts.org
@@ -112,30 +97,54 @@ sites:
 
   - name: Open Products Facts
     url: https://world.openproductsfacts.org
-    
+
   - name: Contribalim
-    url: https://contribalim.openfoodfacts.org/
+    url: https://contribalim.openfoodfacts.org
 
   - name: Open Food Facts Query
     url: https://query.openfoodfacts.org/health
 
   - name: Datasette instance (Mirabelle)
-    url: https://mirabelle.openfoodfacts.org/
+    url: https://mirabelle.openfoodfacts.org
 
   - name: Alert Manager
     url: https://alertmanager.openfoodfacts.org/-/healthy
+
+  # Staging
+
+  - name: Staging deployment
+    url: https://world.openfoodfacts.net
+    headers:
+      - "Authorization: Basic b2ZmOm9mZg=="
+
+  - name: Nutri-Patrol (Staging)
+    url: https://nutripatrol.openfoodfacts.net
+
+  - name: Knowledge panels for facets (Staging)
+    url: https://facets-kp.openfoodfacts.net/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world
+
+  - name: Search (Staging)
+    url: https://search.openfoodfacts.net/?q=Nutella
+    headers:
+      - "Authorization: Basic b2ZmOm9mZg=="
+
+  - name: Taxonomy editor (Staging)
+    url: https://ui.taxonomy.openfoodfacts.net
+
+  - name: Open Prices API (Staging)
+    url: https://prices.openfoodfacts.net/api/v1/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.openfoodfacts.org
-  # baseUrl: /
+  favicon: https://world.openfoodfacts.org/images/favicon/off/favicon.ico
   logoUrl: https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg
   name: OpenFoodFacts status
   introTitle: "Status page for OpenFoodFacts infrastructure"
   navbar:
     - title: OpenFoodFacts
-      href: https://world.openfoodfacts.org/
+      href: https://world.openfoodfacts.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
