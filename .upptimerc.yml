@@ -107,9 +107,6 @@ sites:
   - name: Datasette instance (Mirabelle)
     url: https://mirabelle.openfoodfacts.org
 
-  - name: Alert Manager
-    url: https://alertmanager.openfoodfacts.org/-/healthy
-
   # Staging
 
   - name: Staging deployment
