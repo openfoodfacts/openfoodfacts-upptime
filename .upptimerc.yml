@@ -46,9 +46,7 @@ sites:
       - "Authorization: Basic $ALERT_MANAGER_BASICAUTH"
 
   - name: Prometheus
-    url: "https://prometheus.openfoodfacts.org/"
-    headers:
-      - "Authorization: Basic $ALERT_MANAGER_BASICAUTH"
+    url: "https://prometheus.openfoodfacts.org/-/healthy"
 
   - name: Search
     url: https://search.openfoodfacts.org/?q=Nutella
@@ -106,9 +104,6 @@ sites:
 
   - name: Datasette instance (Mirabelle)
     url: https://mirabelle.openfoodfacts.org
-
-  - name: Alert Manager
-    url: https://alertmanager.openfoodfacts.org/-/healthy
 
   # Staging
 
