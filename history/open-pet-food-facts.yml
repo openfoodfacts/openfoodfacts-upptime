@@ -1,7 +1,7 @@
 url: https://world.openpetfoodfacts.org
-status: down
-code: 500
-responseTime: 745
-lastUpdated: 2025-02-08T09:27:25.280Z
+status: up
+code: 200
+responseTime: 1118
+lastUpdated: 2025-02-08T09:34:16.123Z
 startTime: 2024-05-27T11:37:05.360Z
 generator: Upptime <https://github.com/upptime/upptime>
