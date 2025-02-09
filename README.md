@@ -1,6 +1,6 @@
-# [📈 Live Status](https://openfoodfacts.github.io/openfoodfacts-upptime/): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.openfoodfacts.org/): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime [monitor and status page for Open Food Facts]([https://upptime.js.org](https://status.openfoodfacts.org/)), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/openfoodfacts/openfoodfacts-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/openfoodfacts/openfoodfacts-upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/openfoodfacts/openfoodfacts-upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/openfoodfacts/openfoodfacts-upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -58,7 +58,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
+[**Visit Open Food Facts status website →**](https://status.openfoodfacts.org/)
 
 ## 📄 License
 
