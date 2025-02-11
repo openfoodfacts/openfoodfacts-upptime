@@ -1,7 +1,7 @@
 url: https://cestemballepresdechezvous.fr
-status: up
-code: 200
-responseTime: 2270
-lastUpdated: 2025-02-10T23:07:01.652Z
+status: down
+code: 502
+responseTime: 651
+lastUpdated: 2025-02-11T07:06:34.877Z
 startTime: 2024-05-27T11:36:52.336Z
 generator: Upptime <https://github.com/upptime/upptime>
