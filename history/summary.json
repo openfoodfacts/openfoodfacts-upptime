@@ -648,11 +648,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "17.25%",
+    "uptime": "17.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.46%",
-    "uptimeYear": "17.25%",
+    "uptimeMonth": "57.53%",
+    "uptimeYear": "17.26%",
     "time": 820,
     "timeDay": 801,
     "timeWeek": 830,
@@ -1809,10 +1809,10 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "60.39%",
     "uptimeYear": "95.77%",
     "time": 1775,
@@ -1821,6 +1821,7 @@
     "timeMonth": 1279,
     "timeYear": 1779,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2025-02-21": 7,
       "2025-02-20": 8,
       "2025-02-18": 7,
@@ -1895,8 +1896,7 @@
       "2024-10-02": 485,
       "2024-10-01": 9,
       "2024-09-30": 16,
-      "2024-09-27": 7,
-      "2024-09-24": 9
+      "2024-09-27": 7
     }
   },
   {
