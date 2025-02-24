@@ -1,7 +1,7 @@
 url: https://search.openfoodfacts.net/?q=Nutella
-status: down
-code: 502
-responseTime: 2885
-lastUpdated: 2025-02-23T23:09:31.011Z
+status: up
+code: 200
+responseTime: 960
+lastUpdated: 2025-02-24T09:56:46.260Z
 startTime: 2024-05-11T15:56:50.042Z
 generator: Upptime <https://github.com/upptime/upptime>
