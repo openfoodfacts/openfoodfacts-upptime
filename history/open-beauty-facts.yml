@@ -1,7 +1,7 @@
 url: https://world.openbeautyfacts.org
-status: up
-code: 200
-responseTime: 957
-lastUpdated: 2025-03-11T23:07:26.170Z
+status: down
+code: 500
+responseTime: 945
+lastUpdated: 2025-03-12T02:38:20.527Z
 startTime: 2024-05-27T11:37:03.292Z
 generator: Upptime <https://github.com/upptime/upptime>
