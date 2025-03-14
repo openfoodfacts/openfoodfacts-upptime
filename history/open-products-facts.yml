@@ -1,7 +1,7 @@
 url: https://world.openproductsfacts.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-14T01:01:54.670Z
+status: up
+code: 200
+responseTime: 1160
+lastUpdated: 2025-03-14T01:32:27.371Z
 startTime: 2024-05-27T11:37:06.842Z
 generator: Upptime <https://github.com/upptime/upptime>
