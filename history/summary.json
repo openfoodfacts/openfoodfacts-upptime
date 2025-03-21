@@ -634,11 +634,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "29.22%",
+    "uptime": "29.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.20%",
-    "uptimeYear": "29.22%",
+    "uptimeYear": "29.23%",
     "time": 875,
     "timeDay": 457,
     "timeWeek": 716,
@@ -893,10 +893,10 @@
     "url": "https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world",
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 801,
@@ -904,7 +904,9 @@
     "timeWeek": 723,
     "timeMonth": 756,
     "timeYear": 801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 1
+    }
   },
   {
     "name": "Taxonomy editor",
@@ -1321,12 +1323,12 @@
     "status": "up",
     "uptime": "97.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "90.64%",
     "uptimeYear": "97.63%",
     "time": 1397,
     "timeDay": 755,
-    "timeWeek": 945,
+    "timeWeek": 916,
     "timeMonth": 1959,
     "timeYear": 1397,
     "dailyMinutesDown": {
