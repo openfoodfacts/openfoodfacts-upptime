@@ -686,11 +686,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "47.14%",
+    "uptime": "47.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.83%",
-    "uptimeYear": "47.14%",
+    "uptimeYear": "47.15%",
     "time": 859,
     "timeDay": 972,
     "timeWeek": 781,
@@ -1063,11 +1063,11 @@
     "url": "https://madenear.me",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.82%",
     "time": 4541,
     "timeDay": 6532,
@@ -1075,6 +1075,7 @@
     "timeMonth": 4205,
     "timeYear": 4541,
     "dailyMinutesDown": {
+      "2025-05-16": 2,
       "2025-05-15": 12,
       "2025-05-11": 35,
       "2025-05-08": 5,
@@ -1127,8 +1128,7 @@
       "2025-03-08": 40,
       "2025-03-06": 8,
       "2025-03-05": 16,
-      "2025-03-04": 50,
-      "2025-03-03": 9
+      "2025-03-04": 50
     }
   },
   {
