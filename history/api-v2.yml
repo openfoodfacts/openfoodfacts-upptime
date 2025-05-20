@@ -1,7 +1,7 @@
 url: https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code
 status: up
 code: 200
-responseTime: 137
-lastUpdated: 2025-05-20T21:43:01.683Z
+responseTime: 89
+lastUpdated: 2025-05-20T23:07:11.322Z
 startTime: 2023-06-07T18:33:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
