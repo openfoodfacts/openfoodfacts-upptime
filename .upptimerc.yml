@@ -16,6 +16,9 @@ sites:
   - name: API v2
     url: https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code
 
+  - name: Search API v2
+    url: https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1
+
   - name: Open Food Facts Images
     url: https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg
 
@@ -129,6 +132,9 @@ sites:
   - name: Open Prices API (Staging)
     url: https://prices.openfoodfacts.net/api/v1/status
 
+  - name: Keycloak
+    url: https://auth.openfoodfacts.org/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -136,7 +142,7 @@ status-website:
   favicon: https://world.openfoodfacts.org/images/favicon/off/favicon.ico
   logoUrl: https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg
   name: OpenFoodFacts status
-  introTitle: "Status page for OpenFoodFacts infrastructure"
+  introTitle: "Status page for Open Food Facts infrastructure"
   navbar:
     - title: OpenFoodFacts
       href: https://world.openfoodfacts.org
