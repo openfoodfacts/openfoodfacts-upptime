@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website-open-food-facts",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.77%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.77%",
     "time": 3207,
     "timeDay": 1413,
     "timeWeek": 1589,
     "timeMonth": 1643,
     "timeYear": 3207,
     "dailyMinutesDown": {
+      "2025-05-25": 7,
       "2025-05-24": 28,
       "2025-05-23": 17,
       "2025-05-22": 35,
@@ -82,8 +83,7 @@
       "2025-02-04": 9,
       "2025-02-03": 10,
       "2025-01-27": 15,
-      "2025-01-26": 7,
-      "2025-01-24": 18
+      "2025-01-26": 7
     }
   },
   {
@@ -93,9 +93,9 @@
     "slug": "pro-platform-open-food-facts",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.59%",
     "time": 1024,
     "timeDay": 743,
@@ -103,6 +103,7 @@
     "timeMonth": 800,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2025-05-25": 6,
       "2025-05-24": 27,
       "2025-05-23": 16,
       "2025-05-22": 33,
@@ -171,7 +172,7 @@
       "2025-01-23": 24,
       "2025-01-22": 92,
       "2025-01-21": 13,
-      "2025-01-19": 22
+      "2025-01-19": 8
     }
   },
   {
@@ -181,9 +182,9 @@
     "slug": "api-v3",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.79%",
     "time": 1524,
     "timeDay": 106,
@@ -191,6 +192,7 @@
     "timeMonth": 135,
     "timeYear": 1155,
     "dailyMinutesDown": {
+      "2025-05-25": 6,
       "2025-05-24": 26,
       "2025-05-23": 15,
       "2025-05-22": 33,
@@ -250,7 +252,7 @@
       "2025-02-10": 47,
       "2025-02-09": 27,
       "2025-02-08": 59,
-      "2025-02-07": 28
+      "2025-02-07": 19
     }
   },
   {
@@ -259,10 +261,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.37%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.79%",
     "time": 1473,
     "timeDay": 107,
@@ -270,6 +272,7 @@
     "timeMonth": 134,
     "timeYear": 1051,
     "dailyMinutesDown": {
+      "2025-05-25": 6,
       "2025-05-24": 25,
       "2025-05-23": 14,
       "2025-05-22": 31,
@@ -333,7 +336,7 @@
       "2025-01-27": 14,
       "2025-01-26": 5,
       "2025-01-24": 16,
-      "2025-01-23": 21
+      "2025-01-23": 11
     }
   },
   {
@@ -342,17 +345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.46%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
     "time": 7800,
     "timeDay": 7800,
     "timeWeek": 7800,
     "timeMonth": 7800,
     "timeYear": 7800,
     "dailyMinutesDown": {
+      "2025-05-25": 5,
       "2025-05-24": 14
     }
   },
@@ -1066,19 +1070,19 @@
     "url": "https://madenear.me",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "99.82%",
-    "time": 4522,
-    "timeDay": 3402,
-    "timeWeek": 3802,
-    "timeMonth": 4162,
-    "timeYear": 4522,
+    "time": 4521,
+    "timeDay": 3447,
+    "timeWeek": 3791,
+    "timeMonth": 4153,
+    "timeYear": 4521,
     "dailyMinutesDown": {
-      "2025-05-25": 3,
+      "2025-05-25": 12,
       "2025-05-24": 30,
       "2025-05-23": 19,
       "2025-05-22": 37,
@@ -1141,19 +1145,19 @@
     "url": "https://cestemballepresdechezvous.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.82%",
-    "time": 3835,
-    "timeDay": 2718,
-    "timeWeek": 3253,
-    "timeMonth": 3300,
-    "timeYear": 3835,
+    "time": 3833,
+    "timeDay": 2598,
+    "timeWeek": 3212,
+    "timeMonth": 3285,
+    "timeYear": 3833,
     "dailyMinutesDown": {
-      "2025-05-25": 1,
+      "2025-05-25": 11,
       "2025-05-24": 28,
       "2025-05-23": 12,
       "2025-05-22": 35,
@@ -1218,8 +1222,8 @@
     "slug": "combien-de-sucres",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.81%",
     "time": 821,
@@ -1228,6 +1232,7 @@
     "timeMonth": 711,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2025-05-25": 4,
       "2025-05-24": 22,
       "2025-05-23": 12,
       "2025-05-22": 29,
@@ -1292,7 +1297,7 @@
       "2025-01-27": 12,
       "2025-01-26": 4,
       "2025-01-24": 15,
-      "2025-01-23": 16
+      "2025-01-23": 8
     }
   },
   {
@@ -1302,9 +1307,9 @@
     "slug": "how-much-sugar",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.83%",
     "time": 564,
     "timeDay": 519,
@@ -1312,6 +1317,7 @@
     "timeMonth": 535,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2025-05-25": 4,
       "2025-05-24": 21,
       "2025-05-23": 10,
       "2025-05-22": 28,
@@ -1377,7 +1383,7 @@
       "2025-01-26": 3,
       "2025-01-24": 15,
       "2025-01-23": 15,
-      "2025-01-22": 15
+      "2025-01-22": 10
     }
   },
   {
@@ -1524,8 +1530,8 @@
     "slug": "open-beauty-facts",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.83%",
     "time": 1538,
@@ -1534,6 +1540,7 @@
     "timeMonth": 1398,
     "timeYear": 1538,
     "dailyMinutesDown": {
+      "2025-05-25": 3,
       "2025-05-24": 20,
       "2025-05-23": 10,
       "2025-05-22": 27,
@@ -1596,7 +1603,7 @@
       "2025-02-15": 9,
       "2025-02-14": 4,
       "2025-02-13": 10,
-      "2025-02-12": 33
+      "2025-02-12": 21
     }
   },
   {
@@ -1606,8 +1613,8 @@
     "slug": "open-pet-food-facts",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.84%",
     "time": 1484,
@@ -1616,6 +1623,7 @@
     "timeMonth": 1378,
     "timeYear": 1484,
     "dailyMinutesDown": {
+      "2025-05-25": 3,
       "2025-05-24": 19,
       "2025-05-23": 8,
       "2025-05-22": 26,
@@ -1678,8 +1686,7 @@
       "2025-02-07": 7,
       "2025-02-06": 8,
       "2025-01-27": 11,
-      "2025-01-26": 3,
-      "2025-01-24": 14
+      "2025-01-26": 3
     }
   },
   {
@@ -1689,9 +1696,9 @@
     "slug": "open-products-facts",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.84%",
     "time": 1427,
     "timeDay": 1326,
@@ -1699,6 +1706,7 @@
     "timeMonth": 1432,
     "timeYear": 1427,
     "dailyMinutesDown": {
+      "2025-05-25": 2,
       "2025-05-24": 18,
       "2025-05-23": 8,
       "2025-05-22": 25,
@@ -1758,8 +1766,7 @@
       "2025-02-14": 3,
       "2025-02-13": 10,
       "2025-02-12": 40,
-      "2025-02-11": 51,
-      "2025-02-10": 6
+      "2025-02-11": 51
     }
   },
   {
@@ -1802,9 +1809,9 @@
     "slug": "open-food-facts-query",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.81%",
     "time": 1048,
     "timeDay": 827,
@@ -1812,6 +1819,7 @@
     "timeMonth": 851,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2025-05-25": 2,
       "2025-05-24": 17,
       "2025-05-23": 7,
       "2025-05-22": 24,
@@ -1877,8 +1885,7 @@
       "2025-01-24": 13,
       "2025-01-23": 9,
       "2025-01-22": 11,
-      "2025-01-21": 30,
-      "2025-01-20": 24
+      "2025-01-21": 30
     }
   },
   {
@@ -2195,17 +2202,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.openfoodfacts.org.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.10%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 831,
     "timeDay": 831,
     "timeWeek": 831,
     "timeMonth": 831,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2025-05-25": 1,
       "2025-05-24": 10
     }
   }
