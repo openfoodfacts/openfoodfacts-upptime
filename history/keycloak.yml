@@ -1,7 +1,7 @@
 url: https://auth.openfoodfacts.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-26T21:00:43.687Z
+status: up
+code: 200
+responseTime: 757
+lastUpdated: 2025-05-26T21:11:06.609Z
 startTime: 2025-05-24T13:42:06.011Z
 generator: Upptime <https://github.com/upptime/upptime>
