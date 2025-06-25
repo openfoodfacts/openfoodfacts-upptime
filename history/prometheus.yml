@@ -1,7 +1,7 @@
 url: https://prometheus.openfoodfacts.org/-/healthy
 status: down
 code: 401
-responseTime: 535
-lastUpdated: 2025-06-24T23:07:49.036Z
+responseTime: 1112
+lastUpdated: 2025-06-25T23:07:48.307Z
 startTime: 2024-10-14T16:59:49.812Z
 generator: Upptime <https://github.com/upptime/upptime>
