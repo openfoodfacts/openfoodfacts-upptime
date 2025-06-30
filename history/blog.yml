@@ -1,7 +1,7 @@
 url: https://blog.openfoodfacts.org
-status: down
-code: 500
-responseTime: 1190
-lastUpdated: 2025-06-30T18:10:58.647Z
+status: up
+code: 200
+responseTime: 1298
+lastUpdated: 2025-06-30T18:23:59.166Z
 startTime: 2023-03-20T22:33:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
