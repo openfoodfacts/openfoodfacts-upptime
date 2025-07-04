@@ -46,10 +46,12 @@ sites:
   - name: Monitoring platform
     url: "https://alertmanager.openfoodfacts.org/#/alerts"
     headers:
-      - "Authorization: Basic $ALERT_MANAGER_BASICAUTH"
+      - "Authorization: Basic $MONITORING_BASICAUTH"
 
   - name: Prometheus
     url: "https://prometheus.openfoodfacts.org/-/healthy"
+    headers:
+      - "Authorization: Basic $MONITORING_BASICAUTH"
 
   - name: Search
     url: https://search.openfoodfacts.org/?q=Nutella
