@@ -1164,19 +1164,19 @@
     "url": "https://cestemballepresdechezvous.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.51%",
-    "time": 3718,
-    "timeDay": 4727,
-    "timeWeek": 3658,
-    "timeMonth": 3318,
-    "timeYear": 3596,
+    "time": 3714,
+    "timeDay": 3654,
+    "timeWeek": 3389,
+    "timeMonth": 3246,
+    "timeYear": 3591,
     "dailyMinutesDown": {
-      "2025-08-27": 6,
+      "2025-08-27": 7,
       "2025-08-24": 8,
       "2025-08-22": 5,
       "2025-08-19": 4,
@@ -1242,8 +1242,7 @@
       "2025-04-23": 7,
       "2025-04-22": 23,
       "2025-04-21": 5,
-      "2025-04-20": 12,
-      "2025-04-17": 18
+      "2025-04-20": 12
     }
   },
   {
