@@ -283,19 +283,19 @@
     "url": "https://world.openfoodfacts.org/api/v2/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "97.96%",
     "time": 1040,
-    "timeDay": 118,
-    "timeWeek": 117,
-    "timeMonth": 118,
-    "timeYear": 849,
+    "timeDay": 119,
+    "timeWeek": 118,
+    "timeMonth": 119,
+    "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-08-27": 108,
+      "2025-08-27": 110,
       "2025-08-24": 9,
       "2025-08-22": 6,
       "2025-08-05": 16,
@@ -361,8 +361,7 @@
       "2025-04-09": 36,
       "2025-04-08": 9,
       "2025-04-07": 21,
-      "2025-04-05": 5,
-      "2025-04-03": 10
+      "2025-04-05": 5
     }
   },
   {
@@ -370,11 +369,11 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "92.61%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "88.04%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "92.61%",
     "time": 8442,
     "timeDay": 8037,
@@ -382,7 +381,7 @@
     "timeMonth": 3750,
     "timeYear": 8442,
     "dailyMinutesDown": {
-      "2025-08-27": 170,
+      "2025-08-27": 171,
       "2025-08-24": 9,
       "2025-08-22": 6,
       "2025-08-10": 99,
@@ -422,7 +421,7 @@
       "2025-05-30": 89,
       "2025-05-29": 109,
       "2025-05-28": 391,
-      "2025-05-27": 78
+      "2025-05-27": 69
     }
   },
   {
@@ -1340,19 +1339,19 @@
     "url": "https://howmuchsugar.in",
     "icon": "https://icons.duckduckgo.com/ip3/howmuchsugar.in.ico",
     "slug": "how-much-sugar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.11%",
     "time": 553,
-    "timeDay": 472,
-    "timeWeek": 488,
-    "timeMonth": 508,
+    "timeDay": 489,
+    "timeWeek": 497,
+    "timeMonth": 511,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-08-27": 32,
+      "2025-08-27": 34,
       "2025-08-24": 7,
       "2025-08-22": 4,
       "2025-08-13": 10,
@@ -1424,7 +1423,7 @@
       "2025-03-14": 40,
       "2025-03-13": 5,
       "2025-03-09": 27,
-      "2025-03-08": 21
+      "2025-03-08": 11
     }
   },
   {
