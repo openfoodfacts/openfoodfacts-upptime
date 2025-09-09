@@ -1453,19 +1453,19 @@
     "url": "https://wiki.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.openfoodfacts.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.91%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 1585,
     "timeDay": 1141,
     "timeWeek": 2623,
     "timeMonth": 1718,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2025-09-09": 28,
+      "2025-09-09": 30,
       "2025-09-06": 5,
       "2025-09-05": 7,
       "2025-09-03": 69,
@@ -1534,8 +1534,7 @@
       "2025-02-23": 391,
       "2025-02-16": 6,
       "2025-02-13": 5,
-      "2025-02-05": 7,
-      "2025-02-03": 25
+      "2025-02-05": 7
     }
   },
   {
