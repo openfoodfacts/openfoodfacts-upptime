@@ -1463,19 +1463,19 @@
     "url": "https://wiki.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.openfoodfacts.org.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "97.72%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "97.70%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 1685,
     "timeDay": 3313,
     "timeWeek": 3338,
     "timeMonth": 2737,
     "timeYear": 1675,
     "dailyMinutesDown": {
-      "2025-09-12": 10,
+      "2025-09-12": 12,
       "2025-09-11": 66,
       "2025-09-10": 18,
       "2025-09-09": 121,
@@ -1531,7 +1531,7 @@
       "2025-03-28": 22,
       "2025-03-26": 10,
       "2025-03-25": 42,
-      "2025-03-24": 31
+      "2025-03-24": 20
     }
   },
   {
@@ -1772,7 +1772,7 @@
     "timeDay": 1568,
     "timeWeek": 1353,
     "timeMonth": 1365,
-    "timeYear": 1429,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2025-09-11": 5,
       "2025-09-07": 10,
@@ -2029,12 +2029,12 @@
     "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.12%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "95.22%",
     "time": 1521,
     "timeDay": 1629,
     "timeWeek": 1368,
-    "timeMonth": 1349,
+    "timeMonth": 1361,
     "timeYear": 1526,
     "dailyMinutesDown": {
       "2025-09-10": 10,
