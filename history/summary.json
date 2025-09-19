@@ -550,16 +550,16 @@
     "status": "down",
     "uptime": "98.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.98%",
-    "uptimeMonth": "84.79%",
-    "uptimeYear": "98.57%",
+    "uptimeWeek": "67.87%",
+    "uptimeMonth": "84.77%",
+    "uptimeYear": "98.56%",
     "time": 1294,
     "timeDay": 1201,
     "timeWeek": 1780,
     "timeMonth": 1648,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2025-09-19": 684,
+      "2025-09-19": 695,
       "2025-09-18": 831,
       "2025-09-15": 1022,
       "2025-09-14": 675,
@@ -1069,11 +1069,11 @@
     "url": "https://madenear.me",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.67%",
     "time": 4443,
     "timeDay": 8106,
@@ -1081,6 +1081,7 @@
     "timeMonth": 3977,
     "timeYear": 4306,
     "dailyMinutesDown": {
+      "2025-09-19": 3,
       "2025-09-18": 16,
       "2025-09-17": 6,
       "2025-09-16": 34,
@@ -1144,8 +1145,7 @@
       "2025-06-08": 10,
       "2025-06-07": 9,
       "2025-06-06": 18,
-      "2025-06-04": 18,
-      "2025-06-03": 7
+      "2025-06-04": 18
     }
   },
   {
@@ -1153,10 +1153,10 @@
     "url": "https://cestemballepresdechezvous.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cestemballepresdechezvous.fr.ico",
     "slug": "emballe-pres-de-chez-vous",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "97.95%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "97.94%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.51%",
     "time": 3573,
@@ -1165,6 +1165,7 @@
     "timeMonth": 2984,
     "timeYear": 3465,
     "dailyMinutesDown": {
+      "2025-09-19": 2,
       "2025-09-18": 16,
       "2025-09-16": 4,
       "2025-09-15": 4,
@@ -1226,7 +1227,7 @@
       "2025-05-23": 12,
       "2025-05-22": 35,
       "2025-05-20": 15,
-      "2025-05-19": 18
+      "2025-05-19": 12
     }
   },
   {
