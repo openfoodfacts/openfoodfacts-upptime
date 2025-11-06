@@ -6,9 +6,9 @@
     "slug": "main-website-open-food-facts",
     "status": "up",
     "uptime": "96.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.45%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "79.44%",
     "uptimeYear": "95.02%",
     "time": 2490,
     "timeDay": 1190,
@@ -16,6 +16,7 @@
     "timeMonth": 1644,
     "timeYear": 2230,
     "dailyMinutesDown": {
+      "2025-11-06": 6,
       "2025-10-27": 20,
       "2025-10-26": 12,
       "2025-10-24": 24,
@@ -90,8 +91,7 @@
       "2025-05-07": 16,
       "2025-05-05": 9,
       "2025-05-04": 8,
-      "2025-05-03": 6,
-      "2025-04-30": 11
+      "2025-05-03": 6
     }
   },
   {
@@ -720,11 +720,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "68.05%",
+    "uptime": "68.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.95%",
+    "uptimeYear": "70.96%",
     "time": 1061,
     "timeDay": 1873,
     "timeWeek": 1816,
@@ -841,8 +841,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
