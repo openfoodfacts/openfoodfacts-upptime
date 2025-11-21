@@ -364,7 +364,7 @@
     "uptime": "99.35%",
     "uptimeDay": "99.51%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "98.16%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "99.35%",
     "time": 8147,
     "timeDay": 9733,
@@ -731,7 +731,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.18%",
+    "uptimeYear": "75.19%",
     "time": 1082,
     "timeDay": 2160,
     "timeWeek": 1652,
@@ -1069,10 +1069,10 @@
     "url": "https://madenear.me",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.82%",
     "time": 4190,
@@ -1081,6 +1081,7 @@
     "timeMonth": 4074,
     "timeYear": 4198,
     "dailyMinutesDown": {
+      "2025-11-21": 2,
       "2025-11-19": 11,
       "2025-11-18": 19,
       "2025-11-16": 8,
@@ -1147,7 +1148,7 @@
       "2025-08-21": 10,
       "2025-08-19": 11,
       "2025-08-18": 10,
-      "2025-08-17": 16
+      "2025-08-17": 8
     }
   },
   {
@@ -1847,7 +1848,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/query.openfoodfacts.org.ico",
     "slug": "open-food-facts-query",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "98.12%",
