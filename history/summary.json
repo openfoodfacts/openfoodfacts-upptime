@@ -362,10 +362,10 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.36%",
     "time": 8148,
@@ -374,7 +374,7 @@
     "timeMonth": 11647,
     "timeYear": 8148,
     "dailyMinutesDown": {
-      "2025-11-22": 12,
+      "2025-11-22": 15,
       "2025-11-21": 7,
       "2025-11-19": 31,
       "2025-11-15": 15,
@@ -411,7 +411,7 @@
       "2025-09-18": 17,
       "2025-09-14": 351,
       "2025-09-13": 90,
-      "2025-09-12": 138
+      "2025-09-12": 118
     }
   },
   {
@@ -1071,19 +1071,19 @@
     "url": "https://madenear.me",
     "icon": "https://icons.duckduckgo.com/ip3/madenear.me.ico",
     "slug": "made-near-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.82%",
-    "time": 4193,
-    "timeDay": 4757,
-    "timeWeek": 4444,
+    "time": 4289,
+    "timeDay": 4739,
+    "timeWeek": 4472,
     "timeMonth": 4138,
     "timeYear": 4197,
     "dailyMinutesDown": {
-      "2025-11-22": 11,
+      "2025-11-22": 13,
       "2025-11-21": 18,
       "2025-11-19": 11,
       "2025-11-18": 19,
@@ -1149,7 +1149,7 @@
       "2025-08-23": 7,
       "2025-08-22": 6,
       "2025-08-21": 10,
-      "2025-08-19": 11
+      "2025-08-19": 5
     }
   },
   {
@@ -1160,12 +1160,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "99.51%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.84%",
     "time": 3420,
     "timeDay": 3280,
-    "timeWeek": 3814,
+    "timeWeek": 3804,
     "timeMonth": 3532,
     "timeYear": 3406,
     "dailyMinutesDown": {
@@ -1424,12 +1424,12 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.77%",
     "time": 1752,
     "timeDay": 729,
     "timeWeek": 705,
-    "timeMonth": 3064,
+    "timeMonth": 3102,
     "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-11-19": 9,
