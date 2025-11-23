@@ -4,18 +4,19 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website-open-food-facts",
-    "status": "up",
+    "status": "down",
     "uptime": "96.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "95.27%",
     "uptimeYear": "94.65%",
-    "time": 2345,
-    "timeDay": 1389,
-    "timeWeek": 1731,
-    "timeMonth": 1786,
-    "timeYear": 2057,
+    "time": 2343,
+    "timeDay": 1117,
+    "timeWeek": 1657,
+    "timeMonth": 1765,
+    "timeYear": 2055,
     "dailyMinutesDown": {
+      "2025-11-23": 3,
       "2025-11-22": 18,
       "2025-11-19": 24,
       "2025-11-15": 12,
@@ -91,8 +92,7 @@
       "2025-05-19": 22,
       "2025-05-18": 10,
       "2025-05-17": 16,
-      "2025-05-15": 14,
-      "2025-05-11": 7
+      "2025-05-15": 14
     }
   },
   {
@@ -362,10 +362,10 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.37%",
     "time": 8109,
@@ -374,7 +374,7 @@
     "timeMonth": 10842,
     "timeYear": 8109,
     "dailyMinutesDown": {
-      "2025-11-23": 8,
+      "2025-11-23": 10,
       "2025-11-22": 18,
       "2025-11-21": 7,
       "2025-11-19": 31,
@@ -412,7 +412,7 @@
       "2025-09-18": 17,
       "2025-09-14": 351,
       "2025-09-13": 90,
-      "2025-09-12": 111
+      "2025-09-12": 103
     }
   },
   {
@@ -740,7 +740,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.84%",
+    "uptimeYear": "75.85%",
     "time": 1084,
     "timeDay": 1808,
     "timeWeek": 1649,
