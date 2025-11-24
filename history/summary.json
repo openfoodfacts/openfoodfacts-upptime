@@ -740,7 +740,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.88%",
+    "uptimeYear": "75.89%",
     "time": 1086,
     "timeDay": 1814,
     "timeWeek": 1643,
@@ -839,8 +839,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -2258,11 +2257,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.openfoodfacts.org.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "93.25%",
+    "uptime": "93.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "94.56%",
-    "uptimeYear": "93.25%",
+    "uptimeYear": "93.26%",
     "time": 1008,
     "timeDay": 911,
     "timeWeek": 976,
