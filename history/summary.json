@@ -362,10 +362,10 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "98.57%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.54%",
     "time": 8487,
@@ -374,7 +374,7 @@
     "timeMonth": 11725,
     "timeYear": 8487,
     "dailyMinutesDown": {
-      "2025-11-30": 40,
+      "2025-11-30": 41,
       "2025-11-29": 33,
       "2025-11-28": 9,
       "2025-11-27": 17,
@@ -414,8 +414,7 @@
       "2025-09-28": 9,
       "2025-09-24": 35,
       "2025-09-23": 17,
-      "2025-09-19": 11,
-      "2025-09-18": 7
+      "2025-09-19": 11
     }
   },
   {
@@ -426,7 +425,7 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "98.44%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.55%",
     "time": 2251,
@@ -1828,7 +1827,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/contribalim.openfoodfacts.org.ico",
     "slug": "contribalim",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
