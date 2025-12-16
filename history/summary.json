@@ -4,11 +4,11 @@
     "url": "https://world.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "main-website-open-food-facts",
-    "status": "up",
+    "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "94.65%",
     "time": 2292,
     "timeDay": 2431,
@@ -16,6 +16,7 @@
     "timeMonth": 1986,
     "timeYear": 2030,
     "dailyMinutesDown": {
+      "2025-12-16": 2,
       "2025-12-07": 28,
       "2025-12-02": 9,
       "2025-11-23": 8,
@@ -91,7 +92,7 @@
       "2025-05-23": 17,
       "2025-05-22": 35,
       "2025-05-20": 19,
-      "2025-05-19": 22
+      "2025-05-19": 14
     }
   },
   {
@@ -101,7 +102,7 @@
     "slug": "pro-platform-open-food-facts",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "80.14%",
+    "uptimeDay": "83.27%",
     "uptimeWeek": "42.60%",
     "uptimeMonth": "86.65%",
     "uptimeYear": "96.48%",
@@ -746,7 +747,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.14%",
+    "uptimeYear": "82.15%",
     "time": 1114,
     "timeDay": 2773,
     "timeWeek": 1749,
@@ -1992,19 +1993,19 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.50%",
     "time": 1512,
-    "timeDay": 1130,
-    "timeWeek": 1428,
-    "timeMonth": 1630,
+    "timeDay": 1125,
+    "timeWeek": 1401,
+    "timeMonth": 1620,
     "timeYear": 1476,
     "dailyMinutesDown": {
-      "2025-12-16": 13,
+      "2025-12-16": 16,
       "2025-12-15": 8,
       "2025-12-05": 6,
       "2025-12-04": 6,
@@ -2081,8 +2082,7 @@
       "2025-04-22": 12,
       "2025-04-18": 13,
       "2025-04-17": 7,
-      "2025-04-16": 7,
-      "2025-04-15": 7
+      "2025-04-16": 7
     }
   },
   {
