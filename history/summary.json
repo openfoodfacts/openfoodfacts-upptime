@@ -103,7 +103,7 @@
     "status": "up",
     "uptime": "97.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.71%",
+    "uptimeWeek": "52.25%",
     "uptimeMonth": "86.68%",
     "uptimeYear": "96.48%",
     "time": 799,
@@ -743,7 +743,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.89%",
+    "uptimeYear": "82.92%",
     "time": 1118,
     "timeDay": 1688,
     "timeWeek": 1798,
@@ -1511,10 +1511,10 @@
     "url": "https://world.openbeautyfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openbeautyfacts.org.ico",
     "slug": "open-beauty-facts",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.02%",
     "time": 1461,
@@ -1523,6 +1523,7 @@
     "timeMonth": 1348,
     "timeYear": 1480,
     "dailyMinutesDown": {
+      "2025-12-19": 2,
       "2025-12-07": 8,
       "2025-12-04": 35,
       "2025-12-02": 39,
@@ -1600,8 +1601,7 @@
       "2025-04-20": 10,
       "2025-04-17": 17,
       "2025-04-15": 19,
-      "2025-04-13": 9,
-      "2025-04-11": 4
+      "2025-04-13": 9
     }
   },
   {
