@@ -211,10 +211,10 @@
     "url": "https://world.openfoodfacts.org/api/v3/product/3175681257511?fields=product_name,code",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "97.44%",
     "time": 385,
@@ -223,6 +223,7 @@
     "timeMonth": 670,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2026-01-24": 2,
       "2026-01-15": 12,
       "2026-01-12": 6,
       "2026-01-11": 8,
@@ -292,7 +293,7 @@
       "2025-06-01": 393,
       "2025-05-29": 10,
       "2025-05-28": 13,
-      "2025-05-27": 20
+      "2025-05-27": 13
     }
   },
   {
@@ -388,12 +389,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.49%",
     "time": 8425,
     "timeDay": 1052,
     "timeWeek": 3162,
-    "timeMonth": 6294,
+    "timeMonth": 6074,
     "timeYear": 8425,
     "dailyMinutesDown": {
       "2026-01-19": 9,
@@ -596,7 +597,7 @@
     "status": "up",
     "uptime": "95.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.37%",
+    "uptimeWeek": "73.19%",
     "uptimeMonth": "18.97%",
     "uptimeYear": "90.19%",
     "time": 1277,
@@ -792,7 +793,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.74%",
+    "uptimeYear": "92.76%",
     "time": 1165,
     "timeDay": 1583,
     "timeWeek": 1570,
@@ -1084,7 +1085,7 @@
     "timeDay": 3575,
     "timeWeek": 4093,
     "timeMonth": 4268,
-    "timeYear": 4083,
+    "timeYear": 4082,
     "dailyMinutesDown": {
       "2026-01-22": 12,
       "2026-01-15": 11,
@@ -1178,7 +1179,7 @@
     "timeDay": 3340,
     "timeWeek": 3352,
     "timeMonth": 3301,
-    "timeYear": 3314,
+    "timeYear": 3313,
     "dailyMinutesDown": {
       "2026-01-15": 11,
       "2026-01-14": 10,
@@ -1738,7 +1739,7 @@
     "timeDay": 1330,
     "timeWeek": 1431,
     "timeMonth": 1436,
-    "timeYear": 1416,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-01-15": 8,
       "2026-01-12": 2,
