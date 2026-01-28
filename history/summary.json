@@ -602,7 +602,7 @@
     "uptime": "95.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.05%",
+    "uptimeMonth": "26.20%",
     "uptimeYear": "90.19%",
     "time": 1276,
     "timeDay": 1268,
@@ -667,8 +667,7 @@
       "2025-04-29": 16,
       "2025-04-26": 37,
       "2025-04-24": 6,
-      "2025-03-22": 23,
-      "2025-01-28": 8
+      "2025-03-22": 23
     }
   },
   {
@@ -798,7 +797,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.68%",
+    "uptimeYear": "93.70%",
     "time": 1173,
     "timeDay": 1366,
     "timeWeek": 1958,
@@ -832,8 +831,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -842,7 +840,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.openfoodfacts.org.ico",
     "slug": "search",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1546,7 +1544,7 @@
     "slug": "open-beauty-facts",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "96.89%",
+    "uptimeDay": "98.21%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "98.23%",
