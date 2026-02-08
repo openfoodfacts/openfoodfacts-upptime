@@ -606,7 +606,7 @@
     "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.13%",
+    "uptimeMonth": "65.16%",
     "uptimeYear": "90.19%",
     "time": 1260,
     "timeDay": 933,
@@ -857,19 +857,19 @@
     "url": "https://robotoff.openfoodfacts.org/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/robotoff.openfoodfacts.org.ico",
     "slug": "robotoff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "96.09%",
     "uptimeYear": "98.96%",
-    "time": 2230,
+    "time": 2232,
     "timeDay": 5455,
     "timeWeek": 3068,
     "timeMonth": 2570,
     "timeYear": 2322,
     "dailyMinutesDown": {
-      "2026-02-08": 9,
+      "2026-02-08": 11,
       "2026-02-06": 30,
       "2026-02-03": 10,
       "2026-01-27": 13,
@@ -927,8 +927,7 @@
       "2025-09-05": 10,
       "2025-08-19": 8,
       "2025-08-18": 11,
-      "2025-08-10": 765,
-      "2025-08-06": 6
+      "2025-08-10": 765
     }
   },
   {
