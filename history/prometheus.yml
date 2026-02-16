@@ -1,7 +1,7 @@
 url: https://prometheus.openfoodfacts.org/-/healthy
 status: up
 code: 200
-responseTime: 1867
-lastUpdated: 2026-02-15T23:11:22.690Z
+responseTime: 1604
+lastUpdated: 2026-02-16T23:12:49.637Z
 startTime: 2024-10-14T16:59:49.812Z
 generator: Upptime <https://github.com/upptime/upptime>
