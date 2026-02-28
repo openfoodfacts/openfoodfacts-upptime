@@ -111,7 +111,7 @@
     "status": "up",
     "uptime": "96.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "71.98%",
     "uptimeYear": "93.67%",
     "time": 761,
@@ -712,8 +712,7 @@
       "2025-07-20": 23,
       "2025-06-30": 7,
       "2025-03-05": 7,
-      "2025-03-03": 9,
-      "2025-02-28": 6
+      "2025-03-03": 9
     }
   },
   {
@@ -1936,18 +1935,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.67%",
-    "uptimeYear": "93.46%",
+    "uptimeMonth": "38.54%",
+    "uptimeYear": "93.45%",
     "time": 731,
     "timeDay": 651,
     "timeWeek": 596,
     "timeMonth": 984,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2026-02-27": 1406,
+      "2026-02-28": 22,
+      "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
