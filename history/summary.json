@@ -473,10 +473,10 @@
     "url": "https://images.openfoodfacts.org/images/products/326/385/988/3713/front_fr.19.100.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/images.openfoodfacts.org.ico",
     "slug": "open-food-facts-images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "99.61%",
     "time": 3318,
@@ -485,6 +485,7 @@
     "timeMonth": 6157,
     "timeYear": 3096,
     "dailyMinutesDown": {
+      "2026-03-05": 1,
       "2026-02-24": 21,
       "2026-02-20": 17,
       "2026-02-14": 257,
@@ -503,7 +504,7 @@
       "2026-01-14": 70,
       "2026-01-13": 153,
       "2026-01-12": 320,
-      "2026-01-11": 147
+      "2026-01-11": 140
     }
   },
   {
@@ -1921,18 +1922,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.06%",
-    "uptimeYear": "92.43%",
+    "uptimeMonth": "21.87%",
+    "uptimeYear": "92.41%",
     "time": 732,
     "timeDay": 742,
     "timeWeek": 677,
     "timeMonth": 637,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2026-03-05": 503,
+      "2026-03-05": 584,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
