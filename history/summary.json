@@ -410,14 +410,14 @@
     "slug": "search-api-v2",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "75.73%",
-    "uptimeWeek": "61.66%",
+    "uptimeDay": "80.57%",
+    "uptimeWeek": "61.94%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "98.95%",
     "time": 4662,
     "timeDay": 1098,
-    "timeWeek": 975,
-    "timeMonth": 968,
+    "timeWeek": 978,
+    "timeMonth": 966,
     "timeYear": 4662,
     "dailyMinutesDown": {
       "2026-05-04": 316,
@@ -579,15 +579,16 @@
     "uptime": "94.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.79%",
-    "uptimeYear": "85.75%",
+    "uptimeMonth": "48.63%",
+    "uptimeYear": "85.74%",
     "time": 1262,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 857,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2026-05-04": 1406,
+      "2026-05-05": 36,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -1688,8 +1689,7 @@
       "2025-05-15": 10,
       "2025-05-11": 22,
       "2025-05-08": 2,
-      "2025-05-07": 11,
-      "2025-05-05": 5
+      "2025-05-07": 11
     }
   },
   {
@@ -1785,8 +1785,7 @@
       "2025-05-15": 9,
       "2025-05-11": 18,
       "2025-05-08": 2,
-      "2025-05-07": 11,
-      "2025-05-05": 4
+      "2025-05-07": 11
     }
   },
   {
@@ -1928,7 +1927,7 @@
     "uptime": "89.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.04%",
+    "uptimeMonth": "65.19%",
     "uptimeYear": "81.13%",
     "time": 763,
     "timeDay": 652,
