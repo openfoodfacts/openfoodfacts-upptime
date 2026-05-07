@@ -111,7 +111,7 @@
     "uptime": "96.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "93.67%",
     "time": 774,
     "timeDay": 994,
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "60.47%",
-    "uptimeWeek": "66.09%",
-    "uptimeMonth": "87.28%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.88%",
+    "uptimeDay": "57.63%",
+    "uptimeWeek": "66.04%",
+    "uptimeMonth": "87.19%",
+    "uptimeYear": "98.88%",
     "time": 4610,
     "timeDay": 1719,
-    "timeWeek": 1105,
-    "timeMonth": 966,
+    "timeWeek": 1113,
+    "timeMonth": 963,
     "timeYear": 4610,
     "dailyMinutesDown": {
-      "2026-05-06": 568,
+      "2026-05-07": 37,
+      "2026-05-06": 572,
       "2026-05-05": 257,
       "2026-05-04": 316,
       "2026-05-03": 712,
@@ -580,7 +581,7 @@
     "uptime": "94.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.14%",
+    "uptimeMonth": "42.05%",
     "uptimeYear": "85.19%",
     "time": 1261,
     "timeDay": 0,
@@ -588,7 +589,8 @@
     "timeMonth": 862,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2026-05-06": 1437,
+      "2026-05-07": 38,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1254,7 +1256,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/combiendesucres.fr.ico",
     "slug": "combien-de-sucres",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -1690,8 +1692,7 @@
       "2025-05-17": 12,
       "2025-05-15": 10,
       "2025-05-11": 22,
-      "2025-05-08": 2,
-      "2025-05-07": 11
+      "2025-05-08": 2
     }
   },
   {
@@ -1786,8 +1787,7 @@
       "2025-05-17": 11,
       "2025-05-15": 9,
       "2025-05-11": 18,
-      "2025-05-08": 2,
-      "2025-05-07": 11
+      "2025-05-08": 2
     }
   },
   {
@@ -1813,8 +1813,7 @@
       "2025-10-20": 50,
       "2025-08-11": 136,
       "2025-07-24": 13,
-      "2025-06-28": 19,
-      "2025-05-07": 14
+      "2025-06-28": 19
     }
   },
   {
@@ -1929,7 +1928,7 @@
     "uptime": "89.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.68%",
+    "uptimeMonth": "71.77%",
     "uptimeYear": "81.13%",
     "time": 763,
     "timeDay": 523,
