@@ -602,8 +602,8 @@
     "slug": "support-platform",
     "status": "up",
     "uptime": "92.00%",
-    "uptimeDay": "44.00%",
-    "uptimeWeek": "6.29%",
+    "uptimeDay": "49.40%",
+    "uptimeWeek": "7.06%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "77.48%",
     "time": 1264,
@@ -1889,7 +1889,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "up",
-    "uptime": "89.77%",
+    "uptime": "89.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
@@ -2309,11 +2309,11 @@
     "url": "https://sql.openfoodfacts.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sql.openfoodfacts.org.ico",
     "slug": "superset-sql-off",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
     "time": 1366,
     "timeDay": 1973,
@@ -2324,7 +2324,8 @@
       "2026-03-09": 47,
       "2026-03-10": 16,
       "2026-03-26": 24,
-      "2026-04-20": 126
+      "2026-04-20": 126,
+      "2026-06-04": 3
     }
   }
 ]
