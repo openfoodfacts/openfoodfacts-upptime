@@ -411,19 +411,19 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "83.47%",
-    "uptimeWeek": "89.70%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "99.02%",
-    "time": 4407,
-    "timeDay": 2229,
-    "timeWeek": 2924,
-    "timeMonth": 2303,
-    "timeYear": 3782,
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "83.96%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "88.34%",
+    "uptimeYear": "99.03%",
+    "time": 4405,
+    "timeDay": 2233,
+    "timeWeek": 2864,
+    "timeMonth": 2296,
+    "timeYear": 3780,
     "dailyMinutesDown": {
-      "2026-05-04": 107,
+      "2026-05-04": 71,
       "2026-05-05": 257,
       "2026-05-06": 572,
       "2026-05-07": 462,
@@ -453,7 +453,7 @@
       "2026-06-01": 227,
       "2026-06-02": 169,
       "2026-06-03": 257,
-      "2026-06-04": 84
+      "2026-06-04": 86
     }
   },
   {
@@ -564,11 +564,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.openfoodfacts.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.12%",
+    "uptimeDay": "84.33%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.91%",
     "time": 1486,
     "timeDay": 1872,
     "timeWeek": 1985,
@@ -592,7 +592,7 @@
       "2026-03-26": 27,
       "2026-03-27": 22,
       "2026-04-12": 14,
-      "2026-06-04": 86
+      "2026-06-04": 226
     }
   },
   {
@@ -602,8 +602,8 @@
     "slug": "support-platform",
     "status": "up",
     "uptime": "92.00%",
-    "uptimeDay": "25.69%",
-    "uptimeWeek": "3.67%",
+    "uptimeDay": "35.35%",
+    "uptimeWeek": "5.05%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "77.48%",
     "time": 1264,
@@ -732,10 +732,10 @@
     "slug": "analytics-platform",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "84.35%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.88%",
     "time": 1247,
     "timeDay": 1025,
     "timeWeek": 1175,
@@ -754,7 +754,7 @@
       "2026-03-27": 22,
       "2026-04-12": 13,
       "2026-06-02": 74,
-      "2026-06-04": 86
+      "2026-06-04": 225
     }
   },
   {
