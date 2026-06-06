@@ -411,16 +411,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "77.94%",
-    "uptimeWeek": "85.27%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "84.88%",
     "uptimeMonth": "88.64%",
-    "uptimeYear": "98.98%",
-    "time": 4378,
-    "timeDay": 1456,
-    "timeWeek": 2243,
-    "timeMonth": 2366,
+    "uptimeYear": "98.97%",
+    "time": 4377,
+    "timeDay": 1546,
+    "timeWeek": 2250,
+    "timeMonth": 2368,
     "timeYear": 3762,
     "dailyMinutesDown": {
       "2026-05-05": 25,
@@ -454,7 +454,7 @@
       "2026-06-03": 257,
       "2026-06-04": 231,
       "2026-06-05": 269,
-      "2026-06-06": 137
+      "2026-06-06": 177
     }
   },
   {
@@ -604,8 +604,8 @@
     "status": "up",
     "uptime": "92.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "32.17%",
-    "uptimeMonth": "5.50%",
+    "uptimeWeek": "32.57%",
+    "uptimeMonth": "5.59%",
     "uptimeYear": "77.50%",
     "time": 1260,
     "timeDay": 916,
@@ -1882,16 +1882,16 @@
     "url": "https://mirabelle.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
-    "status": "up",
+    "status": "down",
     "uptime": "89.79%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "81.47%",
     "time": 778,
-    "timeDay": 471,
-    "timeWeek": 1881,
-    "timeMonth": 1057,
+    "timeDay": 515,
+    "timeWeek": 1774,
+    "timeMonth": 1044,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2025-06-09": 8,
@@ -1980,7 +1980,8 @@
       "2026-02-10": 1440,
       "2026-02-09": 519,
       "2026-06-02": 36,
-      "2026-06-05": 77
+      "2026-06-05": 77,
+      "2026-06-06": 2
     }
   },
   {
