@@ -414,13 +414,13 @@
     "status": "up",
     "uptime": "99.07%",
     "uptimeDay": "76.57%",
-    "uptimeWeek": "84.31%",
-    "uptimeMonth": "88.67%",
+    "uptimeWeek": "84.41%",
+    "uptimeMonth": "88.80%",
     "uptimeYear": "99.03%",
     "time": 4361,
     "timeDay": 1431,
-    "timeWeek": 2027,
-    "timeMonth": 2356,
+    "timeWeek": 1973,
+    "timeMonth": 2364,
     "timeYear": 3756,
     "dailyMinutesDown": {
       "2026-05-06": 121,
@@ -603,8 +603,8 @@
     "status": "up",
     "uptime": "92.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.31%",
-    "uptimeMonth": "7.37%",
+    "uptimeWeek": "41.07%",
+    "uptimeMonth": "7.54%",
     "uptimeYear": "77.50%",
     "time": 1260,
     "timeDay": 1070,
@@ -1125,7 +1125,6 @@
     "timeMonth": 471,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-06-07": 9,
       "2025-07-26": 10,
       "2025-10-16": 11,
       "2026-04-21": 17
@@ -1883,11 +1882,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "down",
-    "uptime": "89.73%",
-    "uptimeDay": "45.67%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "81.32%",
+    "uptime": "89.72%",
+    "uptimeDay": "40.35%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "81.31%",
     "time": 777,
     "timeDay": 484,
     "timeWeek": 1741,
@@ -1981,7 +1980,8 @@
       "2026-02-09": 519,
       "2026-06-02": 36,
       "2026-06-05": 77,
-      "2026-06-06": 782
+      "2026-06-07": 53,
+      "2026-06-06": 806
     }
   },
   {
