@@ -602,10 +602,10 @@
     "slug": "support-platform",
     "status": "down",
     "uptime": "92.02%",
-    "uptimeDay": "99.90%",
+    "uptimeDay": "94.78%",
     "uptimeWeek": "54.59%",
     "uptimeMonth": "10.66%",
-    "uptimeYear": "77.50%",
+    "uptimeYear": "77.48%",
     "time": 1259,
     "timeDay": 0,
     "timeWeek": 881,
@@ -722,7 +722,8 @@
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 845,
-      "2026-06-07": 1
+      "2026-06-08": 50,
+      "2026-06-07": 26
     }
   },
   {
@@ -843,7 +844,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "79.04%",
+    "uptime": "79.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.87%",
@@ -1319,7 +1320,6 @@
     "timeMonth": 675,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-06-08": 4,
       "2025-06-09": 14,
       "2025-06-11": 59,
       "2025-06-16": 1098,
@@ -1396,7 +1396,6 @@
     "timeMonth": 647,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-06-08": 4,
       "2025-06-09": 13,
       "2025-06-11": 57,
       "2025-06-16": 1097,
@@ -1632,7 +1631,6 @@
     "timeMonth": 1270,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2025-06-08": 3,
       "2025-06-09": 11,
       "2025-06-11": 55,
       "2025-06-16": 1096,
@@ -1705,7 +1703,6 @@
     "timeMonth": 1268,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-06-08": 2,
       "2025-06-09": 11,
       "2025-06-11": 55,
       "2025-06-16": 1096,
@@ -1810,7 +1807,6 @@
     "timeMonth": 1402,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2025-06-08": 2,
       "2025-06-09": 9,
       "2025-06-11": 54,
       "2025-06-16": 1096,
@@ -1884,11 +1880,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "down",
-    "uptime": "89.61%",
+    "uptime": "89.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.83%",
-    "uptimeMonth": "94.67%",
-    "uptimeYear": "81.05%",
+    "uptimeWeek": "76.09%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "81.03%",
     "time": 776,
     "timeDay": 266,
     "timeWeek": 1691,
@@ -1982,7 +1978,8 @@
       "2026-02-09": 519,
       "2026-06-02": 36,
       "2026-06-05": 77,
-      "2026-06-07": 1417,
+      "2026-06-08": 51,
+      "2026-06-07": 1440,
       "2026-06-06": 806
     }
   },
@@ -2101,7 +2098,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nutripatrol.openfoodfacts.net.ico",
     "slug": "nutri-patrol-staging",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2246,7 +2243,6 @@
     "timeMonth": 1531,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2025-06-08": 2,
       "2025-06-09": 9,
       "2025-06-11": 53,
       "2025-06-16": 1095,
