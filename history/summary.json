@@ -411,16 +411,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "81.53%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "87.81%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "78.68%",
+    "uptimeWeek": "78.95%",
+    "uptimeMonth": "87.71%",
     "uptimeYear": "98.97%",
-    "time": 4113,
-    "timeDay": 1222,
-    "timeWeek": 1425,
-    "timeMonth": 2163,
+    "time": 4112,
+    "timeDay": 1324,
+    "timeWeek": 1440,
+    "timeMonth": 2164,
     "timeYear": 3710,
     "dailyMinutesDown": {
       "2026-05-10": 47,
@@ -453,7 +453,7 @@
       "2026-06-07": 418,
       "2026-06-08": 405,
       "2026-06-09": 176,
-      "2026-06-10": 199
+      "2026-06-10": 240
     }
   },
   {
@@ -603,8 +603,8 @@
     "status": "up",
     "uptime": "92.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "18.74%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "18.84%",
     "uptimeYear": "77.38%",
     "time": 1258,
     "timeDay": 1047,
@@ -844,7 +844,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "79.14%",
+    "uptime": "79.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.87%",
@@ -1874,10 +1874,10 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "89.53%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "64.70%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "80.81%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "64.27%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "80.80%",
     "time": 782,
     "timeDay": 632,
     "timeWeek": 735,
@@ -1974,7 +1974,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 806,
       "2026-06-09": 88,
-      "2026-06-10": 110
+      "2026-06-10": 154
     }
   },
   {
