@@ -413,10 +413,10 @@
     "slug": "search-api-v2",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "79.61%",
-    "uptimeWeek": "78.87%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "98.98%",
+    "uptimeDay": "77.77%",
+    "uptimeWeek": "78.61%",
+    "uptimeMonth": "87.68%",
+    "uptimeYear": "98.97%",
     "time": 4074,
     "timeDay": 1295,
     "timeWeek": 1394,
@@ -453,7 +453,7 @@
       "2026-06-08": 405,
       "2026-06-09": 176,
       "2026-06-10": 284,
-      "2026-06-11": 9
+      "2026-06-11": 36
     }
   },
   {
@@ -603,8 +603,8 @@
     "status": "up",
     "uptime": "92.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.70%",
-    "uptimeMonth": "19.19%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "19.25%",
     "uptimeYear": "77.38%",
     "time": 1258,
     "timeDay": 713,
@@ -1869,9 +1869,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "89.51%",
-    "uptimeDay": "78.67%",
-    "uptimeWeek": "62.75%",
-    "uptimeMonth": "91.35%",
+    "uptimeDay": "76.84%",
+    "uptimeWeek": "62.49%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "80.77%",
     "time": 781,
     "timeDay": 478,
@@ -1969,7 +1969,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 806,
       "2026-06-09": 88,
-      "2026-06-11": 23,
+      "2026-06-11": 50,
       "2026-06-10": 284
     }
   },
