@@ -14,7 +14,7 @@
     "timeDay": 2019,
     "timeWeek": 1957,
     "timeMonth": 3734,
-    "timeYear": 2177,
+    "timeYear": 2178,
     "dailyMinutesDown": {
       "2025-06-25": 65,
       "2025-06-24": 2,
@@ -336,7 +336,7 @@
     "timeDay": 579,
     "timeWeek": 548,
     "timeMonth": 517,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-06-20": 7,
       "2025-06-25": 65,
@@ -411,19 +411,19 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "69.27%",
-    "uptimeWeek": "77.75%",
-    "uptimeMonth": "85.34%",
+    "uptimeDay": "68.95%",
+    "uptimeWeek": "77.70%",
+    "uptimeMonth": "85.37%",
     "uptimeYear": "98.78%",
-    "time": 4233,
-    "timeDay": 1470,
-    "timeWeek": 1425,
-    "timeMonth": 1986,
+    "time": 4231,
+    "timeDay": 1364,
+    "timeWeek": 1414,
+    "timeMonth": 1981,
     "timeYear": 3663,
     "dailyMinutesDown": {
-      "2026-05-17": 43,
+      "2026-05-17": 23,
       "2026-05-18": 369,
       "2026-05-19": 227,
       "2026-05-20": 198,
@@ -452,7 +452,7 @@
       "2026-06-13": 184,
       "2026-06-14": 141,
       "2026-06-15": 213,
-      "2026-06-16": 424
+      "2026-06-16": 429
     }
   },
   {
@@ -603,7 +603,7 @@
     "uptime": "92.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.07%",
+    "uptimeMonth": "38.39%",
     "uptimeYear": "77.38%",
     "time": 1254,
     "timeDay": 884,
@@ -1144,7 +1144,7 @@
     "timeDay": 5321,
     "timeWeek": 4669,
     "timeMonth": 4616,
-    "timeYear": 4110,
+    "timeYear": 4109,
     "dailyMinutesDown": {
       "2025-11-13": 4,
       "2025-11-14": 5,
@@ -1230,7 +1230,7 @@
     "timeDay": 4449,
     "timeWeek": 3933,
     "timeMonth": 4036,
-    "timeYear": 3395,
+    "timeYear": 3394,
     "dailyMinutesDown": {
       "2025-09-28": 8,
       "2025-09-29": 4,
@@ -1384,7 +1384,7 @@
     "timeDay": 853,
     "timeWeek": 663,
     "timeMonth": 645,
-    "timeYear": 532,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-06-18": 4,
       "2025-06-19": 19,
@@ -1541,7 +1541,7 @@
     "timeDay": 1772,
     "timeWeek": 1356,
     "timeMonth": 1349,
-    "timeYear": 2528,
+    "timeYear": 2530,
     "dailyMinutesDown": {
       "2025-09-18": 12,
       "2025-09-19": 16,
@@ -1609,7 +1609,7 @@
     "timeDay": 1248,
     "timeWeek": 1300,
     "timeMonth": 1284,
-    "timeYear": 1359,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-06-18": 3,
       "2025-06-19": 17,
@@ -1674,7 +1674,7 @@
     "timeDay": 1754,
     "timeWeek": 1361,
     "timeMonth": 1270,
-    "timeYear": 1375,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-06-18": 3,
       "2025-06-19": 17,
@@ -1839,14 +1839,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
     "status": "down",
-    "uptime": "89.31%",
+    "uptime": "89.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.74%",
-    "uptimeMonth": "84.48%",
-    "uptimeYear": "80.20%",
+    "uptimeWeek": "65.74%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "80.17%",
     "time": 775,
     "timeDay": 0,
-    "timeWeek": 824,
+    "timeWeek": 651,
     "timeMonth": 1024,
     "timeYear": 788,
     "dailyMinutesDown": {
@@ -1943,7 +1943,7 @@
       "2026-06-11": 513,
       "2026-06-10": 284,
       "2026-06-12": 82,
-      "2026-06-16": 1091,
+      "2026-06-16": 1231,
       "2026-06-15": 1344
     }
   },
@@ -2206,7 +2206,7 @@
     "timeDay": 2014,
     "timeWeek": 1656,
     "timeMonth": 1543,
-    "timeYear": 1054,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-06-18": 2,
       "2025-06-19": 15,
