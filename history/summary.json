@@ -410,9 +410,9 @@
     "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "95.20%",
-    "uptimeWeek": "88.49%",
-    "uptimeMonth": "86.37%",
-    "uptimeYear": "98.80%",
+    "uptimeWeek": "88.21%",
+    "uptimeMonth": "86.31%",
+    "uptimeYear": "98.79%",
     "time": 4178,
     "timeDay": 1781,
     "timeWeek": 1537,
@@ -450,7 +450,7 @@
       "2026-06-18": 7,
       "2026-06-19": 152,
       "2026-06-20": 64,
-      "2026-06-21": 8
+      "2026-06-21": 36
     }
   },
   {
@@ -601,7 +601,7 @@
     "uptime": "92.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.07%",
+    "uptimeMonth": "52.13%",
     "uptimeYear": "77.38%",
     "time": 1249,
     "timeDay": 782,
