@@ -573,7 +573,7 @@
     "status": "up",
     "uptime": "91.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.11%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "87.26%",
     "uptimeYear": "76.53%",
     "time": 1239,
@@ -701,17 +701,17 @@
     "url": "https://analytics.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.openfoodfacts.org.ico",
     "slug": "analytics-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
-    "time": 1247,
-    "timeDay": 1614,
-    "timeWeek": 1236,
-    "timeMonth": 1197,
-    "timeYear": 1253,
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.86%",
+    "time": 1246,
+    "timeDay": 1348,
+    "timeWeek": 1189,
+    "timeMonth": 1185,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-07-20": 23,
       "2025-07-21": 194,
@@ -725,7 +725,7 @@
       "2026-04-12": 13,
       "2026-06-02": 74,
       "2026-06-04": 294,
-      "2026-07-05": 4
+      "2026-07-05": 33
     }
   },
   {
@@ -735,10 +735,10 @@
     "slug": "metrics-platform",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 1114,
     "timeDay": 1623,
     "timeWeek": 1388,
@@ -751,7 +751,7 @@
       "2026-03-25": 19,
       "2026-03-27": 21,
       "2026-04-12": 13,
-      "2026-07-05": 3
+      "2026-07-05": 35
     }
   },
   {
@@ -759,22 +759,22 @@
     "url": "https://connect.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/connect.openfoodfacts.org.ico",
     "slug": "connect-platform-odoo-crm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1316,
-    "timeDay": 2577,
-    "timeWeek": 1494,
-    "timeMonth": 948,
-    "timeYear": 1345,
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1315,
+    "timeDay": 1958,
+    "timeWeek": 1408,
+    "timeMonth": 940,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2026-03-18": 26,
       "2026-03-27": 21,
       "2026-04-12": 13,
-      "2026-07-05": 3
+      "2026-07-05": 33
     }
   },
   {
@@ -825,10 +825,10 @@
     "slug": "search",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.88%",
     "time": 1044,
     "timeDay": 1614,
     "timeWeek": 1327,
@@ -839,7 +839,7 @@
       "2026-02-19": 536,
       "2026-03-18": 26,
       "2026-03-27": 20,
-      "2026-07-05": 3
+      "2026-07-05": 35
     }
   },
   {
@@ -848,10 +848,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/robotoff.openfoodfacts.org.ico",
     "slug": "robotoff",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.81%",
+    "uptime": "98.69%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "87.07%",
-    "uptimeMonth": "91.09%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "97.25%",
     "time": 2358,
     "timeDay": 1735,
@@ -936,7 +936,7 @@
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 455,
-      "2026-07-05": 3
+      "2026-07-05": 34
     }
   },
   {
@@ -946,10 +946,10 @@
     "slug": "nutri-patrol",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 714,
     "timeDay": 1333,
     "timeWeek": 786,
@@ -965,7 +965,7 @@
       "2026-01-25": 8,
       "2026-02-14": 15,
       "2026-03-18": 25,
-      "2026-07-05": 2
+      "2026-07-05": 34
     }
   },
   {
@@ -974,11 +974,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.14%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.13%",
     "time": 1394,
     "timeDay": 1409,
     "timeWeek": 841,
@@ -1013,7 +1013,7 @@
       "2026-03-10": 831,
       "2026-03-18": 38,
       "2026-03-20": 16,
-      "2026-07-05": 2
+      "2026-07-05": 34
     }
   },
   {
@@ -1022,11 +1022,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.taxonomy.openfoodfacts.org.ico",
     "slug": "taxonomy-editor",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 695,
     "timeDay": 1379,
     "timeWeek": 766,
@@ -1034,7 +1034,7 @@
     "timeYear": 702,
     "dailyMinutesDown": {
       "2025-09-16": 8,
-      "2026-07-05": 2
+      "2026-07-05": 34
     }
   },
   {
@@ -1688,7 +1688,7 @@
     "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.10%",
+    "uptimeWeek": "87.41%",
     "uptimeMonth": "91.22%",
     "uptimeYear": "98.44%",
     "time": 1144,
