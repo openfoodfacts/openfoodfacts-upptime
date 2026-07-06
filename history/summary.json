@@ -386,10 +386,10 @@
     "slug": "search-api-v2",
     "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "90.16%",
+    "uptimeDay": "88.74%",
     "uptimeWeek": "85.19%",
-    "uptimeMonth": "82.31%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "82.26%",
+    "uptimeYear": "98.52%",
     "time": 3724,
     "timeDay": 1362,
     "timeWeek": 1703,
@@ -425,7 +425,7 @@
       "2026-07-03": 130,
       "2026-07-04": 204,
       "2026-07-05": 142,
-      "2026-07-06": 1
+      "2026-07-06": 21
     }
   },
   {
@@ -851,7 +851,7 @@
     "status": "up",
     "uptime": "98.69%",
     "uptimeDay": "95.50%",
-    "uptimeWeek": "94.45%",
+    "uptimeWeek": "94.65%",
     "uptimeMonth": "90.95%",
     "uptimeYear": "97.24%",
     "time": 2354,
@@ -1688,7 +1688,7 @@
     "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.09%",
+    "uptimeWeek": "95.30%",
     "uptimeMonth": "91.22%",
     "uptimeYear": "98.44%",
     "time": 1144,
