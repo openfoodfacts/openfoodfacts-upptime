@@ -802,7 +802,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.openfoodfacts.org.ico",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "80.08%",
+    "uptime": "80.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1760,13 +1760,13 @@
     "url": "https://mirabelle.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/mirabelle.openfoodfacts.org.ico",
     "slug": "datasette-instance-mirabelle",
-    "status": "up",
+    "status": "down",
     "uptime": "89.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "88.14%",
     "uptimeYear": "79.86%",
-    "time": 821,
+    "time": 822,
     "timeDay": 418,
     "timeWeek": 513,
     "timeMonth": 1267,
@@ -1870,7 +1870,8 @@
       "2026-06-22": 107,
       "2026-06-28": 27,
       "2026-06-29": 62,
-      "2026-06-30": 18
+      "2026-06-30": 18,
+      "2026-07-09": 3
     }
   },
   {
@@ -1878,19 +1879,18 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "86.12%",
-    "uptimeMonth": "95.86%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "86.10%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "96.93%",
     "time": 1691,
-    "timeDay": 1295,
-    "timeWeek": 1314,
-    "timeMonth": 1535,
-    "timeYear": 1776,
+    "timeDay": 1121,
+    "timeWeek": 1263,
+    "timeMonth": 1515,
+    "timeYear": 1774,
     "dailyMinutesDown": {
-      "2025-09-22": 11,
       "2025-10-02": 9,
       "2025-10-05": 9,
       "2025-10-06": 16,
@@ -1983,7 +1983,7 @@
       "2026-07-05": 48,
       "2026-07-08": 404,
       "2026-07-07": 873,
-      "2026-07-09": 75
+      "2026-07-09": 77
     }
   },
   {
