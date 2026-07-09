@@ -385,9 +385,9 @@
     "slug": "search-api-v2",
     "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "84.67%",
-    "uptimeMonth": "82.37%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "82.31%",
     "uptimeYear": "98.47%",
     "time": 3621,
     "timeDay": 1457,
@@ -425,7 +425,7 @@
       "2026-07-06": 259,
       "2026-07-07": 407,
       "2026-07-08": 143,
-      "2026-07-09": 1
+      "2026-07-09": 30
     }
   },
   {
@@ -1880,7 +1880,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "72.57%",
+    "uptimeDay": "74.54%",
     "uptimeWeek": "86.86%",
     "uptimeMonth": "96.03%",
     "uptimeYear": "96.94%",
