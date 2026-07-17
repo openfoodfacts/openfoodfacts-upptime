@@ -1,7 +1,7 @@
 url: https://nutripatrol.openfoodfacts.org
-status: up
-code: 200
-responseTime: 640
-lastUpdated: 2026-07-17T08:52:09.890Z
+status: down
+code: 502
+responseTime: 2281
+lastUpdated: 2026-07-17T14:53:36.510Z
 startTime: 2025-02-02T17:56:34.764Z
 generator: Upptime <https://github.com/upptime/upptime>
