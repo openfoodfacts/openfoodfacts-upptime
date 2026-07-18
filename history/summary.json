@@ -691,17 +691,17 @@
     "url": "https://analytics.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.openfoodfacts.org.ico",
     "slug": "analytics-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "46.18%",
-    "uptimeWeek": "85.87%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "46.41%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "99.59%",
-    "time": 1230,
-    "timeDay": 1512,
-    "timeWeek": 979,
-    "timeMonth": 1086,
-    "timeYear": 1230,
+    "time": 1231,
+    "timeDay": 1492,
+    "timeWeek": 992,
+    "timeMonth": 1091,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-07-20": 23,
       "2025-07-21": 194,
@@ -719,7 +719,7 @@
       "2026-07-14": 178,
       "2026-07-15": 136,
       "2026-07-16": 28,
-      "2026-07-18": 533,
+      "2026-07-18": 550,
       "2026-07-17": 548
     }
   },
@@ -730,10 +730,10 @@
     "slug": "metrics-platform",
     "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "87.89%",
+    "uptimeDay": "86.48%",
     "uptimeWeek": "27.36%",
-    "uptimeMonth": "80.02%",
-    "uptimeYear": "98.32%",
+    "uptimeMonth": "79.98%",
+    "uptimeYear": "98.31%",
     "time": 1144,
     "timeDay": 1671,
     "timeWeek": 1905,
@@ -755,7 +755,7 @@
       "2026-07-10": 163,
       "2026-07-16": 998,
       "2026-07-17": 655,
-      "2026-07-18": 174
+      "2026-07-18": 195
     }
   },
   {
@@ -834,9 +834,9 @@
     "slug": "search",
     "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "87.92%",
+    "uptimeDay": "86.51%",
     "uptimeWeek": "27.38%",
-    "uptimeMonth": "80.03%",
+    "uptimeMonth": "79.98%",
     "uptimeYear": "98.22%",
     "time": 1078,
     "timeDay": 1612,
@@ -857,7 +857,7 @@
       "2026-07-10": 163,
       "2026-07-16": 999,
       "2026-07-17": 653,
-      "2026-07-18": 174
+      "2026-07-18": 194
     }
   },
   {
@@ -867,9 +867,9 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "87.94%",
+    "uptimeDay": "86.53%",
     "uptimeWeek": "27.39%",
-    "uptimeMonth": "71.25%",
+    "uptimeMonth": "71.20%",
     "uptimeYear": "95.70%",
     "time": 2324,
     "timeDay": 1415,
@@ -961,7 +961,7 @@
       "2026-07-10": 163,
       "2026-07-16": 998,
       "2026-07-17": 653,
-      "2026-07-18": 174
+      "2026-07-18": 194
     }
   },
   {
@@ -971,9 +971,9 @@
     "slug": "nutri-patrol",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "87.95%",
+    "uptimeDay": "86.54%",
     "uptimeWeek": "27.40%",
-    "uptimeMonth": "80.04%",
+    "uptimeMonth": "79.99%",
     "uptimeYear": "98.28%",
     "time": 745,
     "timeDay": 1421,
@@ -999,7 +999,7 @@
       "2026-07-10": 163,
       "2026-07-16": 998,
       "2026-07-17": 653,
-      "2026-07-18": 173
+      "2026-07-18": 194
     }
   },
   {
@@ -1008,10 +1008,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/facets-kp.openfoodfacts.org.ico",
     "slug": "knowledge-panels-for-facets",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "87.97%",
+    "uptime": "98.02%",
+    "uptimeDay": "86.56%",
     "uptimeWeek": "27.42%",
-    "uptimeMonth": "80.04%",
+    "uptimeMonth": "80.00%",
     "uptimeYear": "97.51%",
     "time": 1424,
     "timeDay": 1366,
@@ -1055,7 +1055,7 @@
       "2026-07-10": 162,
       "2026-07-16": 998,
       "2026-07-17": 653,
-      "2026-07-18": 173
+      "2026-07-18": 194
     }
   },
   {
@@ -1064,11 +1064,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ui.taxonomy.openfoodfacts.org.ico",
     "slug": "taxonomy-editor",
     "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "87.99%",
+    "uptime": "98.85%",
+    "uptimeDay": "86.58%",
     "uptimeWeek": "27.43%",
-    "uptimeMonth": "80.05%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "80.00%",
+    "uptimeYear": "98.33%",
     "time": 728,
     "timeDay": 1380,
     "timeWeek": 1629,
@@ -1085,7 +1085,7 @@
       "2026-07-10": 162,
       "2026-07-16": 997,
       "2026-07-17": 651,
-      "2026-07-18": 173
+      "2026-07-18": 193
     }
   },
   {
