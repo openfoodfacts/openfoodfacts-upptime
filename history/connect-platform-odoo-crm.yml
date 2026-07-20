@@ -1,7 +1,7 @@
 url: https://connect.openfoodfacts.org
-status: up
-code: 200
-responseTime: 2595
-lastUpdated: 2026-07-20T17:59:53.704Z
+status: down
+code: 500
+responseTime: 835
+lastUpdated: 2026-07-20T19:56:25.283Z
 startTime: 2024-08-19T06:49:15.506Z
 generator: Upptime <https://github.com/upptime/upptime>
