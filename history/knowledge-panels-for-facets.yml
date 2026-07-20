@@ -1,7 +1,7 @@
 url: https://facets-kp.openfoodfacts.org/render-to-html?facet_tag=categories&value_tag=en:open-beauty-facts&lang_code=en&country=world
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2026-07-19T23:23:18.262Z
+status: down
+code: 502
+responseTime: 33431
+lastUpdated: 2026-07-20T16:21:09.695Z
 startTime: 2025-02-02T17:56:35.597Z
 generator: Upptime <https://github.com/upptime/upptime>
