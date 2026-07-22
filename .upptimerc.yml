@@ -117,6 +117,9 @@ sites:
     headers:
       - "Authorization: Basic b2ZmOm9mZg=="
 
+  - name: Explorer staging
+    url: https://beta.openfoodfacts.net/health
+
   - name: Nutri-Patrol (Staging)
     url: https://nutripatrol.openfoodfacts.net
 
