@@ -1,7 +1,7 @@
 url: https://sql.openfoodfacts.org/
-status: down
-code: 502
-responseTime: 382
-lastUpdated: 2026-08-10T10:44:43.046Z
+status: up
+code: 200
+responseTime: 1521
+lastUpdated: 2026-08-10T11:20:49.869Z
 startTime: 2026-02-27T14:21:30.815Z
 generator: Upptime <https://github.com/upptime/upptime>
