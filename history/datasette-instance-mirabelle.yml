@@ -1,7 +1,7 @@
 url: https://mirabelle.openfoodfacts.org
-status: down
-code: 502
-responseTime: 407
-lastUpdated: 2026-08-17T23:12:00.606Z
+status: up
+code: 200
+responseTime: 7321
+lastUpdated: 2026-08-18T02:18:17.673Z
 startTime: 2024-05-27T16:55:30.270Z
 generator: Upptime <https://github.com/upptime/upptime>
