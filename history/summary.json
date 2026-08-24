@@ -16,7 +16,6 @@
     "timeMonth": 1949,
     "timeYear": 2236,
     "dailyMinutesDown": {
-      "2025-08-24": 11,
       "2025-08-27": 43,
       "2025-08-28": 5,
       "2025-09-02": 13,
@@ -110,7 +109,6 @@
     "timeMonth": 980,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-08-24": 10,
       "2025-09-02": 12,
       "2025-09-05": 10,
       "2025-09-07": 15,
@@ -224,7 +222,6 @@
     "timeMonth": 633,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-08-24": 10,
       "2025-08-27": 122,
       "2025-09-02": 12,
       "2025-09-07": 14,
@@ -302,7 +299,6 @@
     "timeMonth": 510,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-08-24": 9,
       "2025-08-27": 130,
       "2025-09-02": 11,
       "2025-09-07": 14,
@@ -370,7 +366,7 @@
     "time": 3100,
     "timeDay": 1456,
     "timeWeek": 1466,
-    "timeMonth": 1524,
+    "timeMonth": 1518,
     "timeYear": 3138,
     "dailyMinutesDown": {
       "2026-08-17": 105,
@@ -1292,7 +1288,6 @@
     "timeMonth": 704,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2025-08-24": 8,
       "2025-08-27": 46,
       "2025-09-02": 9,
       "2025-09-07": 12,
@@ -1350,7 +1345,6 @@
     "timeMonth": 671,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-08-24": 7,
       "2025-08-27": 39,
       "2025-09-02": 9,
       "2025-09-07": 11,
@@ -1544,7 +1538,6 @@
     "timeMonth": 1443,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2025-08-24": 6,
       "2025-09-02": 8,
       "2025-09-07": 10,
       "2025-09-11": 5,
@@ -1599,7 +1592,6 @@
     "timeMonth": 1492,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-08-24": 6,
       "2025-09-02": 8,
       "2025-09-07": 10,
       "2025-09-11": 5,
@@ -1686,7 +1678,6 @@
     "timeMonth": 873,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-24": 5,
       "2025-09-02": 7,
       "2025-09-07": 9,
       "2025-09-11": 4,
@@ -1990,11 +1981,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.openfoodfacts.net.ico",
     "slug": "explorer-staging",
     "status": "down",
-    "uptime": "77.78%",
+    "uptime": "77.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.49%",
-    "uptimeYear": "77.78%",
+    "uptimeYear": "77.79%",
     "time": 500,
     "timeDay": 445,
     "timeWeek": 403,
@@ -2150,7 +2141,6 @@
     "timeMonth": 1616,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2025-08-24": 5,
       "2025-09-02": 7,
       "2025-09-07": 9,
       "2025-09-11": 4,
