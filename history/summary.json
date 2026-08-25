@@ -357,16 +357,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "82.12%",
-    "uptimeMonth": "95.89%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "82.08%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.66%",
     "time": 3097,
-    "timeDay": 1491,
-    "timeWeek": 1461,
-    "timeMonth": 1514,
+    "timeDay": 1534,
+    "timeWeek": 1465,
+    "timeMonth": 1516,
     "timeYear": 3125,
     "dailyMinutesDown": {
       "2026-08-18": 83,
@@ -376,7 +376,7 @@
       "2026-08-22": 312,
       "2026-08-23": 252,
       "2026-08-24": 197,
-      "2026-08-25": 28
+      "2026-08-25": 32
     }
   },
   {
@@ -833,12 +833,12 @@
     "status": "up",
     "uptime": "97.49%",
     "uptimeDay": "99.02%",
-    "uptimeWeek": "57.86%",
+    "uptimeWeek": "57.96%",
     "uptimeMonth": "85.46%",
     "uptimeYear": "94.35%",
     "time": 3603,
     "timeDay": 457,
-    "timeWeek": 16066,
+    "timeWeek": 15867,
     "timeMonth": 12869,
     "timeYear": 3920,
     "dailyMinutesDown": {
@@ -1529,9 +1529,9 @@
     "slug": "open-pet-food-facts",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "79.17%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.14%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.79%",
     "time": 1364,
     "timeDay": 2185,
@@ -1574,7 +1574,7 @@
       "2026-02-24": 20,
       "2026-03-18": 11,
       "2026-03-24": 46,
-      "2026-08-25": 300
+      "2026-08-25": 315
     }
   },
   {
@@ -1984,11 +1984,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.openfoodfacts.net.ico",
     "slug": "explorer-staging",
     "status": "down",
-    "uptime": "78.73%",
+    "uptime": "78.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.49%",
-    "uptimeYear": "78.73%",
+    "uptimeYear": "78.74%",
     "time": 499,
     "timeDay": 454,
     "timeWeek": 430,
