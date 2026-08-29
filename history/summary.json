@@ -353,16 +353,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "85.57%",
-    "uptimeWeek": "76.75%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "76.59%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 3047,
-    "timeDay": 1427,
-    "timeWeek": 1517,
-    "timeMonth": 1519,
+    "timeDay": 1458,
+    "timeWeek": 1524,
+    "timeMonth": 1521,
     "timeYear": 3047,
     "dailyMinutesDown": {
       "2026-08-20": 28,
@@ -374,7 +374,7 @@
       "2026-08-26": 357,
       "2026-08-27": 432,
       "2026-08-28": 725,
-      "2026-08-29": 195
+      "2026-08-29": 212
     }
   },
   {
@@ -520,9 +520,9 @@
     "slug": "support-platform",
     "status": "down",
     "uptime": "92.24%",
-    "uptimeDay": "95.89%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "76.88%",
     "time": 1203,
     "timeDay": 991,
@@ -637,7 +637,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-08-29": 59
+      "2026-08-29": 86
     }
   },
   {
@@ -1454,10 +1454,10 @@
     "slug": "open-beauty-facts",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "87.76%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.30%",
     "time": 2391,
     "timeDay": 3045,
     "timeWeek": 1669,
@@ -1513,7 +1513,7 @@
       "2026-03-24": 23,
       "2026-06-11": 190,
       "2026-08-02": 40,
-      "2026-08-29": 149
+      "2026-08-29": 176
     }
   },
   {
@@ -1981,11 +1981,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.openfoodfacts.net.ico",
     "slug": "explorer-staging",
     "status": "down",
-    "uptime": "81.21%",
+    "uptime": "81.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.08%",
-    "uptimeYear": "81.21%",
+    "uptimeMonth": "78.14%",
+    "uptimeYear": "81.22%",
     "time": 494,
     "timeDay": 433,
     "timeWeek": 424,
