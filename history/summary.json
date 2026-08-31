@@ -353,19 +353,19 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "89.93%",
-    "uptimeWeek": "77.81%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "77.79%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 3025,
-    "timeDay": 1421,
-    "timeWeek": 1520,
-    "timeMonth": 1512,
+    "timeDay": 1407,
+    "timeWeek": 1516,
+    "timeMonth": 1511,
     "timeYear": 3019,
     "dailyMinutesDown": {
-      "2026-08-22": 82,
+      "2026-08-22": 72,
       "2026-08-23": 252,
       "2026-08-24": 197,
       "2026-08-25": 176,
@@ -374,7 +374,7 @@
       "2026-08-28": 725,
       "2026-08-29": 212,
       "2026-08-30": 179,
-      "2026-08-31": 81
+      "2026-08-31": 83
     }
   },
   {
@@ -521,8 +521,8 @@
     "status": "down",
     "uptime": "92.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "94.16%",
+    "uptimeWeek": "74.49%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "76.59%",
     "time": 1202,
     "timeDay": 320,
@@ -636,7 +636,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-08-31": 936,
+      "2026-08-31": 952,
       "2026-08-30": 1440,
       "2026-08-29": 180
     }
@@ -1735,9 +1735,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.53%",
-    "uptimeDay": "61.07%",
-    "uptimeWeek": "83.57%",
-    "uptimeMonth": "56.89%",
+    "uptimeDay": "59.99%",
+    "uptimeWeek": "83.41%",
+    "uptimeMonth": "56.85%",
     "uptimeYear": "76.68%",
     "time": 1106,
     "timeDay": 582,
@@ -1862,7 +1862,7 @@
       "2026-08-25": 38,
       "2026-08-27": 629,
       "2026-08-29": 428,
-      "2026-08-31": 561
+      "2026-08-31": 576
     }
   },
   {
@@ -1984,11 +1984,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.openfoodfacts.net.ico",
     "slug": "explorer-staging",
     "status": "down",
-    "uptime": "82.02%",
+    "uptime": "82.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.78%",
-    "uptimeYear": "82.02%",
+    "uptimeMonth": "83.82%",
+    "uptimeYear": "82.03%",
     "time": 491,
     "timeDay": 324,
     "timeWeek": 443,
