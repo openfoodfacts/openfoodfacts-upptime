@@ -353,16 +353,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "79.81%",
-    "uptimeWeek": "75.83%",
-    "uptimeMonth": "94.01%",
+    "uptimeWeek": "75.78%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
-    "time": 2992,
-    "timeDay": 1437,
-    "timeWeek": 1473,
-    "timeMonth": 1506,
+    "time": 2993,
+    "timeDay": 1429,
+    "timeWeek": 1477,
+    "timeMonth": 1507,
     "timeYear": 2985,
     "dailyMinutesDown": {
       "2026-08-24": 11,
@@ -373,7 +373,7 @@
       "2026-08-29": 212,
       "2026-08-30": 179,
       "2026-08-31": 251,
-      "2026-09-01": 287
+      "2026-09-01": 292
     }
   },
   {
@@ -517,11 +517,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
     "status": "down",
-    "uptime": "92.02%",
+    "uptime": "92.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.42%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "76.23%",
+    "uptimeWeek": "55.36%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "76.22%",
     "time": 1198,
     "timeDay": 394,
     "timeWeek": 640,
@@ -634,7 +634,8 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-09-01": 1434,
+      "2026-09-02": 0,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 180
@@ -1285,7 +1286,6 @@
     "timeMonth": 726,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-09-02": 9,
       "2025-09-07": 12,
       "2025-09-11": 6,
       "2025-09-12": 98,
@@ -1341,7 +1341,6 @@
     "timeMonth": 680,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-09-02": 9,
       "2025-09-07": 11,
       "2025-09-11": 6,
       "2025-09-12": 99,
@@ -1534,7 +1533,6 @@
     "timeMonth": 1500,
     "timeYear": 1372,
     "dailyMinutesDown": {
-      "2025-09-02": 8,
       "2025-09-07": 10,
       "2025-09-11": 5,
       "2025-09-12": 78,
@@ -1589,7 +1587,6 @@
     "timeMonth": 1484,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2025-09-02": 8,
       "2025-09-07": 10,
       "2025-09-11": 5,
       "2025-09-12": 76,
@@ -1675,7 +1672,6 @@
     "timeMonth": 922,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-09-02": 7,
       "2025-09-07": 9,
       "2025-09-11": 4,
       "2025-09-12": 76,
@@ -1986,7 +1982,7 @@
     "uptime": "82.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.21%",
+    "uptimeMonth": "88.22%",
     "uptimeYear": "82.61%",
     "time": 486,
     "timeDay": 441,
@@ -2142,7 +2138,6 @@
     "timeMonth": 1690,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2025-09-02": 7,
       "2025-09-07": 9,
       "2025-09-11": 4,
       "2025-09-12": 74,
