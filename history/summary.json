@@ -344,15 +344,15 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "76.34%",
+    "uptimeWeek": "84.64%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "99.71%",
     "time": 2858,
-    "timeDay": 1536,
-    "timeWeek": 1487,
+    "timeDay": 1565,
+    "timeWeek": 1488,
     "timeMonth": 1502,
     "timeYear": 2849,
     "dailyMinutesDown": {
@@ -361,7 +361,7 @@
       "2026-09-06": 271,
       "2026-09-07": 267,
       "2026-09-08": 294,
-      "2026-09-09": 297
+      "2026-09-09": 304
     }
   },
   {
@@ -504,7 +504,7 @@
     "uptime": "91.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.04%",
+    "uptimeMonth": "64.02%",
     "uptimeYear": "74.21%",
     "time": 1198,
     "timeDay": 0,
@@ -616,7 +616,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-09-09": 1172,
+      "2026-09-09": 1180,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -1710,7 +1710,7 @@
     "uptime": "88.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.83%",
-    "uptimeMonth": "66.31%",
+    "uptimeMonth": "66.33%",
     "uptimeYear": "76.55%",
     "time": 1146,
     "timeDay": 441,
@@ -1848,10 +1848,10 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "96.84%",
+    "uptimeDay": "76.23%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "96.83%",
     "time": 1724,
     "timeDay": 1193,
     "timeWeek": 1378,
@@ -1950,7 +1950,7 @@
       "2026-09-02": 31,
       "2026-09-05": 30,
       "2026-09-07": 7,
-      "2026-09-09": 335
+      "2026-09-09": 342
     }
   },
   {
