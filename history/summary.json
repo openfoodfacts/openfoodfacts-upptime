@@ -306,16 +306,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "86.32%",
-    "uptimeMonth": "96.78%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.73%",
     "time": 2677,
-    "timeDay": 1467,
-    "timeWeek": 1494,
-    "timeMonth": 1488,
+    "timeDay": 1495,
+    "timeWeek": 1501,
+    "timeMonth": 1489,
     "timeYear": 2612,
     "dailyMinutesDown": {
       "2026-09-19": 189,
@@ -325,7 +325,7 @@
       "2026-09-23": 162,
       "2026-09-24": 182,
       "2026-09-25": 194,
-      "2026-09-26": 40
+      "2026-09-26": 45
     }
   },
   {
@@ -470,7 +470,7 @@
     "uptime": "90.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.77%",
+    "uptimeMonth": "9.76%",
     "uptimeYear": "71.92%",
     "time": 1197,
     "timeDay": 0,
@@ -570,7 +570,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-09-26": 464,
+      "2026-09-26": 471,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
@@ -606,16 +606,16 @@
     "url": "https://analytics.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.openfoodfacts.org.ico",
     "slug": "analytics-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.60%",
     "time": 1222,
-    "timeDay": 1343,
-    "timeWeek": 1193,
-    "timeMonth": 1217,
+    "timeDay": 1336,
+    "timeWeek": 1207,
+    "timeMonth": 1220,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2025-10-23": 6,
@@ -635,7 +635,7 @@
       "2026-07-18": 550,
       "2026-07-17": 548,
       "2026-07-20": 114,
-      "2026-09-26": 22
+      "2026-09-26": 27
     }
   },
   {
