@@ -308,26 +308,26 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "78.21%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "96.39%",
+    "uptimeDay": "78.18%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "99.70%",
-    "time": 2621,
-    "timeDay": 1863,
-    "timeWeek": 1548,
+    "time": 2620,
+    "timeDay": 1860,
+    "timeWeek": 1542,
     "timeMonth": 1504,
     "timeYear": 2563,
     "dailyMinutesDown": {
-      "2026-09-25": 58,
+      "2026-09-25": 47,
       "2026-09-26": 191,
       "2026-09-27": 197,
       "2026-09-28": 186,
       "2026-09-29": 268,
       "2026-09-30": 162,
       "2026-10-01": 216,
-      "2026-10-02": 306
+      "2026-10-02": 308
     }
   },
   {
@@ -570,7 +570,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-02": 1399,
+      "2026-10-02": 1422,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -718,9 +718,9 @@
     "slug": "monitoring-platform",
     "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "38.07%",
-    "uptimeWeek": "91.15%",
-    "uptimeMonth": "97.96%",
+    "uptimeDay": "36.48%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "97.91%",
     "uptimeYear": "99.83%",
     "time": 1540,
     "timeDay": 4954,
@@ -728,7 +728,7 @@
     "timeMonth": 1587,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2026-10-02": 892
+      "2026-10-02": 915
     }
   },
   {
@@ -738,10 +738,10 @@
     "slug": "prometheus",
     "status": "down",
     "uptime": "82.37%",
-    "uptimeDay": "38.10%",
-    "uptimeWeek": "91.16%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "36.51%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.20%",
     "time": 1289,
     "timeDay": 4246,
     "timeWeek": 1574,
@@ -752,7 +752,7 @@
       "2026-04-13": 682,
       "2026-05-20": 992,
       "2026-05-19": 815,
-      "2026-10-02": 891
+      "2026-10-02": 914
     }
   },
   {
@@ -1778,7 +1778,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "64.66%",
+    "uptimeDay": "66.22%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "96.62%",
