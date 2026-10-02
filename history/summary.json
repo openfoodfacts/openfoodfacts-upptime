@@ -308,16 +308,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "81.79%",
-    "uptimeWeek": "85.28%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "81.19%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "96.38%",
     "uptimeYear": "99.70%",
     "time": 2620,
-    "timeDay": 1920,
-    "timeWeek": 1551,
-    "timeMonth": 1503,
+    "timeDay": 1953,
+    "timeWeek": 1558,
+    "timeMonth": 1505,
     "timeYear": 2565,
     "dailyMinutesDown": {
       "2026-09-25": 107,
@@ -327,7 +327,7 @@
       "2026-09-29": 268,
       "2026-09-30": 162,
       "2026-10-01": 216,
-      "2026-10-02": 254
+      "2026-10-02": 263
     }
   },
   {
@@ -570,7 +570,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-02": 1212,
+      "2026-10-02": 1224,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -718,17 +718,17 @@
     "slug": "monitoring-platform",
     "status": "down",
     "uptime": "97.63%",
-    "uptimeDay": "51.05%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "50.23%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.86%",
     "time": 1532,
     "timeDay": 3157,
     "timeWeek": 1821,
     "timeMonth": 1470,
     "timeYear": 1600,
     "dailyMinutesDown": {
-      "2026-10-02": 705
+      "2026-10-02": 717
     }
   },
   {
@@ -738,9 +738,9 @@
     "slug": "prometheus",
     "status": "down",
     "uptime": "82.39%",
-    "uptimeDay": "51.08%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "50.26%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.24%",
     "time": 1282,
     "timeDay": 2485,
@@ -752,7 +752,7 @@
       "2026-04-13": 682,
       "2026-05-20": 992,
       "2026-05-19": 815,
-      "2026-10-02": 704
+      "2026-10-02": 716
     }
   },
   {
@@ -1011,24 +1011,24 @@
     "url": "https://prices.openfoodfacts.org/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/prices.openfoodfacts.org.ico",
     "slug": "open-prices-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.64%",
-    "time": 862,
-    "timeDay": 542,
-    "timeWeek": 5581,
-    "timeMonth": 1990,
-    "timeYear": 925,
+    "time": 962,
+    "timeDay": 25425,
+    "timeWeek": 10550,
+    "timeMonth": 3500,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2026-07-01": 704,
       "2026-06-30": 560,
       "2026-07-25": 396,
       "2026-07-24": 205,
       "2026-09-28": 20,
-      "2026-10-02": 2
+      "2026-10-02": 12
     }
   },
   {
@@ -1778,7 +1778,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "51.67%",
+    "uptimeDay": "52.49%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "96.62%",
