@@ -570,7 +570,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-03": 3,
+      "2026-10-03": 25,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
@@ -719,9 +719,9 @@
     "slug": "monitoring-platform",
     "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "35.05%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "33.48%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.82%",
     "time": 1540,
     "timeDay": 4954,
@@ -729,7 +729,7 @@
     "timeMonth": 1587,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2026-10-03": 3,
+      "2026-10-03": 25,
       "2026-10-02": 933
     }
   },
@@ -740,10 +740,10 @@
     "slug": "prometheus",
     "status": "down",
     "uptime": "82.37%",
-    "uptimeDay": "35.08%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "33.52%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "99.19%",
     "time": 1289,
     "timeDay": 4246,
     "timeWeek": 1574,
@@ -754,7 +754,7 @@
       "2026-04-13": 682,
       "2026-05-20": 992,
       "2026-05-19": 815,
-      "2026-10-03": 3,
+      "2026-10-03": 25,
       "2026-10-02": 932
     }
   },
@@ -1383,9 +1383,9 @@
     "slug": "open-beauty-facts",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.11%",
     "time": 2388,
     "timeDay": 983,
@@ -1445,7 +1445,7 @@
       "2026-09-08": 6,
       "2026-09-11": 13,
       "2026-09-13": 8,
-      "2026-10-03": 2
+      "2026-10-03": 25
     }
   },
   {
@@ -1782,7 +1782,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "67.66%",
+    "uptimeDay": "69.23%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "96.62%",
