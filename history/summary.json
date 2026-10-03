@@ -471,7 +471,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.10%",
+    "uptimeYear": "70.09%",
     "time": 1194,
     "timeDay": 0,
     "timeWeek": 0,
@@ -570,7 +570,8 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-02": 1429,
+      "2026-10-03": 3,
+      "2026-10-02": 1440,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -718,9 +719,9 @@
     "slug": "monitoring-platform",
     "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "36.00%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "35.05%",
+    "uptimeWeek": "90.72%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.82%",
     "time": 1540,
     "timeDay": 4954,
@@ -728,7 +729,8 @@
     "timeMonth": 1587,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2026-10-02": 922
+      "2026-10-03": 3,
+      "2026-10-02": 933
     }
   },
   {
@@ -738,9 +740,9 @@
     "slug": "prometheus",
     "status": "down",
     "uptime": "82.37%",
-    "uptimeDay": "36.03%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "35.08%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.20%",
     "time": 1289,
     "timeDay": 4246,
@@ -752,7 +754,8 @@
       "2026-04-13": 682,
       "2026-05-20": 992,
       "2026-05-19": 815,
-      "2026-10-02": 921
+      "2026-10-03": 3,
+      "2026-10-02": 932
     }
   },
   {
@@ -1378,19 +1381,19 @@
     "url": "https://world.openbeautyfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openbeautyfacts.org.ico",
     "slug": "open-beauty-facts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.11%",
-    "time": 2389,
-    "timeDay": 1459,
-    "timeWeek": 1374,
-    "timeMonth": 1588,
-    "timeYear": 2649,
+    "time": 2388,
+    "timeDay": 983,
+    "timeWeek": 1265,
+    "timeMonth": 1561,
+    "timeYear": 2645,
     "dailyMinutesDown": {
-      "2025-10-18": 18,
+      "2025-10-18": 9,
       "2025-10-24": 20,
       "2025-10-27": 17,
       "2025-10-26": 7,
@@ -1441,7 +1444,8 @@
       "2026-09-07": 7,
       "2026-09-08": 6,
       "2026-09-11": 13,
-      "2026-09-13": 8
+      "2026-09-13": 8,
+      "2026-10-03": 2
     }
   },
   {
@@ -1778,7 +1782,7 @@
     "slug": "staging-deployment",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "66.71%",
+    "uptimeDay": "67.66%",
     "uptimeWeek": "89.85%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "96.62%",
