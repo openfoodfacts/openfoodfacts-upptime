@@ -1,7 +1,7 @@
 url: https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1
-status: down
-code: 503
-responseTime: 598
-lastUpdated: 2026-10-06T14:56:04.263Z
+status: up
+code: 200
+responseTime: 3276
+lastUpdated: 2026-10-06T15:26:25.791Z
 startTime: 2025-05-24T13:41:20.608Z
 generator: Upptime <https://github.com/upptime/upptime>
