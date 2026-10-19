@@ -1,7 +1,7 @@
 url: https://alertmanager.openfoodfacts.org/#/alerts
-status: down
-code: 502
-responseTime: 4494
-lastUpdated: 2026-10-18T23:15:10.123Z
+status: up
+code: 200
+responseTime: 4963
+lastUpdated: 2026-10-19T07:38:14.503Z
 startTime: 2023-07-10T16:47:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
