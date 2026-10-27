@@ -283,23 +283,23 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "50.26%",
-    "uptimeWeek": "77.01%",
-    "uptimeMonth": "94.71%",
+    "uptimeDay": "50.35%",
+    "uptimeWeek": "76.96%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.56%",
     "time": 2384,
     "timeDay": 1546,
     "timeWeek": 1551,
     "timeMonth": 1635,
-    "timeYear": 2316,
+    "timeYear": 2315,
     "dailyMinutesDown": {
       "2026-10-23": 205,
       "2026-10-24": 325,
       "2026-10-25": 483,
       "2026-10-26": 688,
-      "2026-10-27": 615
+      "2026-10-27": 620
     }
   },
   {
@@ -538,7 +538,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-27": 1252,
+      "2026-10-27": 1259,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
