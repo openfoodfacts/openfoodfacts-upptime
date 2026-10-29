@@ -286,19 +286,20 @@
     "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "42.01%",
-    "uptimeWeek": "75.58%",
-    "uptimeMonth": "94.38%",
+    "uptimeWeek": "75.38%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "99.53%",
     "time": 2365,
     "timeDay": 1446,
-    "timeWeek": 1527,
+    "timeWeek": 1530,
     "timeMonth": 1624,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2026-10-25": 234,
       "2026-10-26": 688,
       "2026-10-27": 706,
-      "2026-10-28": 840
+      "2026-10-28": 842,
+      "2026-10-29": 18
     }
   },
   {
@@ -405,7 +406,7 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.90%",
+    "uptimeWeek": "95.10%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.67%",
     "time": 1639,
@@ -434,7 +435,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.openfoodfacts.org.ico",
     "slug": "support-platform",
     "status": "down",
-    "uptime": "88.04%",
+    "uptime": "88.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -537,7 +538,8 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-28": 1438,
+      "2026-10-29": 18,
+      "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
@@ -956,7 +958,6 @@
     "timeMonth": 830,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2025-10-29": 13,
       "2025-10-31": 5,
       "2025-11-05": 15,
       "2025-11-13": 11,
@@ -1617,7 +1618,6 @@
     "timeMonth": 1536,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2025-10-29": 10,
       "2025-10-30": 12,
       "2025-10-31": 44,
       "2025-11-29": 171,
@@ -1752,10 +1752,10 @@
     "slug": "staging-deployment",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "98.01%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "98.00%",
     "time": 1847,
     "timeDay": 999,
     "timeWeek": 1153,
@@ -1842,7 +1842,8 @@
       "2026-10-24": 17,
       "2026-10-26": 9,
       "2026-10-27": 18,
-      "2026-10-28": 174
+      "2026-10-28": 175,
+      "2026-10-29": 20
     }
   },
   {
