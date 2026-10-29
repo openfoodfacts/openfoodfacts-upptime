@@ -283,15 +283,15 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "41.72%",
-    "uptimeWeek": "75.18%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "41.74%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
     "time": 2365,
-    "timeDay": 1444,
-    "timeWeek": 1529,
+    "timeDay": 1441,
+    "timeWeek": 1530,
     "timeMonth": 1623,
     "timeYear": 2282,
     "dailyMinutesDown": {
@@ -299,7 +299,7 @@
       "2026-10-26": 688,
       "2026-10-27": 706,
       "2026-10-28": 842,
-      "2026-10-29": 67
+      "2026-10-29": 73
     }
   },
   {
@@ -406,7 +406,7 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.78%",
+    "uptimeWeek": "95.86%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.67%",
     "time": 1639,
@@ -439,7 +439,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.96%",
+    "uptimeYear": "62.95%",
     "time": 1192,
     "timeDay": 0,
     "timeWeek": 0,
@@ -538,7 +538,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-10-29": 87,
+      "2026-10-29": 95,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1752,9 +1752,9 @@
     "slug": "staging-deployment",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "81.76%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "97.99%",
     "time": 1847,
     "timeDay": 999,
@@ -1843,7 +1843,7 @@
       "2026-10-26": 9,
       "2026-10-27": 18,
       "2026-10-28": 175,
-      "2026-10-29": 89
+      "2026-10-29": 96
     }
   },
   {
