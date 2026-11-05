@@ -290,7 +290,7 @@
     "time": 2303,
     "timeDay": 1435,
     "timeWeek": 1362,
-    "timeMonth": 1558,
+    "timeMonth": 1559,
     "timeYear": 2139,
     "dailyMinutesDown": {
       "2026-11-01": 102,
@@ -538,7 +538,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-05": 889,
+      "2026-11-05": 896,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -723,7 +723,7 @@
     "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.96%",
+    "uptimeMonth": "54.98%",
     "uptimeYear": "95.35%",
     "time": 1700,
     "timeDay": 1363,
@@ -760,7 +760,7 @@
     "uptime": "80.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.96%",
+    "uptimeMonth": "54.98%",
     "uptimeYear": "94.73%",
     "time": 1401,
     "timeDay": 955,
@@ -1621,9 +1621,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "89.22%",
-    "uptimeDay": "77.80%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "77.34%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "76.31%",
     "time": 1210,
     "timeDay": 317,
@@ -1755,7 +1755,7 @@
       "2026-10-09": 166,
       "2026-10-16": 256,
       "2026-11-02": 39,
-      "2026-11-05": 320
+      "2026-11-05": 326
     }
   },
   {
@@ -1763,17 +1763,17 @@
     "url": "https://world.openfoodfacts.net",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.net.ico",
     "slug": "staging-deployment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "82.93%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "97.79%",
     "time": 1894,
-    "timeDay": 979,
-    "timeWeek": 2665,
-    "timeMonth": 2076,
-    "timeYear": 1987,
+    "timeDay": 1054,
+    "timeWeek": 2623,
+    "timeMonth": 2070,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2026-04-25": 15,
       "2026-04-29": 30,
@@ -1853,7 +1853,7 @@
       "2026-11-01": 197,
       "2026-11-02": 41,
       "2026-11-04": 31,
-      "2026-11-05": 3
+      "2026-11-05": 7
     }
   },
   {
