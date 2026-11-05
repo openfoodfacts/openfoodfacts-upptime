@@ -281,15 +281,15 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "79.79%",
-    "uptimeWeek": "90.14%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "79.56%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.81%",
     "time": 2303,
-    "timeDay": 1420,
-    "timeWeek": 1364,
+    "timeDay": 1435,
+    "timeWeek": 1366,
     "timeMonth": 1559,
     "timeYear": 2140,
     "dailyMinutesDown": {
@@ -297,7 +297,7 @@
       "2026-11-02": 228,
       "2026-11-03": 231,
       "2026-11-04": 214,
-      "2026-11-05": 211
+      "2026-11-05": 214
     }
   },
   {
@@ -538,7 +538,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-05": 803,
+      "2026-11-05": 808,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -723,7 +723,7 @@
     "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.76%",
+    "uptimeMonth": "54.78%",
     "uptimeYear": "95.35%",
     "time": 1700,
     "timeDay": 1363,
@@ -760,7 +760,7 @@
     "uptime": "80.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.76%",
+    "uptimeMonth": "54.78%",
     "uptimeYear": "94.73%",
     "time": 1401,
     "timeDay": 955,
@@ -1621,9 +1621,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "89.22%",
-    "uptimeDay": "83.76%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "83.44%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.35%",
     "uptimeYear": "76.32%",
     "time": 1210,
     "timeDay": 317,
@@ -1755,7 +1755,7 @@
       "2026-10-09": 166,
       "2026-10-16": 256,
       "2026-11-02": 39,
-      "2026-11-05": 234
+      "2026-11-05": 238
     }
   },
   {
