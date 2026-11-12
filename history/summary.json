@@ -272,23 +272,23 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "77.15%",
-    "uptimeWeek": "89.77%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "76.74%",
+    "uptimeWeek": "89.71%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "99.80%",
     "time": 2261,
-    "timeDay": 1392,
-    "timeWeek": 1507,
-    "timeMonth": 1544,
+    "timeDay": 1407,
+    "timeWeek": 1513,
+    "timeMonth": 1545,
     "timeYear": 2074,
     "dailyMinutesDown": {
       "2026-11-07": 49,
       "2026-11-08": 174,
       "2026-11-09": 235,
       "2026-11-10": 248,
-      "2026-11-11": 330
+      "2026-11-11": 336
     }
   },
   {
@@ -436,7 +436,6 @@
     "timeMonth": 0,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2025-11-12": 11,
       "2025-11-26": 14,
       "2025-12-10": 17,
       "2026-01-19": 667,
@@ -528,7 +527,8 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-11": 1433,
+      "2026-11-12": 0,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -719,7 +719,7 @@
     "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.93%",
+    "uptimeMonth": "75.94%",
     "uptimeYear": "95.35%",
     "time": 1703,
     "timeDay": 1542,
@@ -756,7 +756,7 @@
     "uptime": "81.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.93%",
+    "uptimeMonth": "75.94%",
     "uptimeYear": "94.73%",
     "time": 1399,
     "timeDay": 571,
@@ -1187,7 +1187,6 @@
     "timeMonth": 3445,
     "timeYear": 3706,
     "dailyMinutesDown": {
-      "2025-11-12": 10,
       "2025-11-13": 3,
       "2025-11-14": 4,
       "2025-11-15": 16,
@@ -1249,7 +1248,6 @@
     "timeMonth": 664,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-11-12": 10,
       "2025-11-15": 8,
       "2025-11-19": 10,
       "2025-11-22": 10,
@@ -1289,7 +1287,6 @@
     "timeMonth": 632,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-11-12": 9,
       "2025-11-15": 8,
       "2025-11-19": 10,
       "2025-11-22": 10,
@@ -1451,7 +1448,6 @@
     "timeMonth": 1806,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-11-12": 8,
       "2025-11-15": 7,
       "2025-11-19": 9,
       "2025-11-22": 9,
@@ -1491,7 +1487,6 @@
     "timeMonth": 1637,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2025-11-12": 8,
       "2025-11-15": 7,
       "2025-11-19": 9,
       "2025-11-22": 8,
@@ -1562,7 +1557,6 @@
     "timeMonth": 1230,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2025-11-12": 7,
       "2025-11-15": 6,
       "2025-11-19": 8,
       "2025-11-22": 8,
@@ -2009,7 +2003,6 @@
     "timeMonth": 1566,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2025-11-12": 7,
       "2025-11-15": 6,
       "2025-11-19": 8,
       "2025-11-22": 7,
