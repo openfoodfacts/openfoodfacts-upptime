@@ -1,7 +1,7 @@
 url: https://prices.openfoodfacts.net/api/v1/status
-status: down
-code: 502
-responseTime: 31071
-lastUpdated: 2026-11-14T09:56:40.123Z
+status: up
+code: 200
+responseTime: 595
+lastUpdated: 2026-11-14T10:33:00.317Z
 startTime: 2025-02-02T17:56:58.871Z
 generator: Upptime <https://github.com/upptime/upptime>
