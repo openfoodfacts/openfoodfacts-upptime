@@ -261,10 +261,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "88.76%",
-    "uptimeMonth": "97.41%",
+    "uptime": "99.85%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "99.78%",
     "time": 2230,
     "timeDay": 2900,
@@ -277,7 +277,7 @@
       "2026-11-16": 311,
       "2026-11-17": 216,
       "2026-11-18": 269,
-      "2026-11-19": 106
+      "2026-11-19": 110
     }
   },
   {
@@ -351,16 +351,16 @@
     "url": "https://api.folksonomy.openfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.folksonomy.openfoodfacts.org.ico",
     "slug": "folksonomy-engine",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.70%",
-    "time": 916,
-    "timeDay": 910,
-    "timeWeek": 810,
-    "timeMonth": 776,
+    "time": 915,
+    "timeDay": 771,
+    "timeWeek": 785,
+    "timeMonth": 772,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2025-11-22": 4,
@@ -374,7 +374,7 @@
       "2026-03-27": 22,
       "2026-04-12": 14,
       "2026-11-02": 97,
-      "2026-11-19": 3
+      "2026-11-19": 6
     }
   },
   {
@@ -419,7 +419,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.07%",
+    "uptimeYear": "57.06%",
     "time": 1192,
     "timeDay": 0,
     "timeWeek": 0,
@@ -517,7 +517,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-19": 816,
+      "2026-11-19": 820,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
