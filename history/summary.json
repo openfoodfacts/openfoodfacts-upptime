@@ -256,15 +256,15 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "89.21%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.79%",
     "time": 2182,
-    "timeDay": 1362,
-    "timeWeek": 1629,
+    "timeDay": 1409,
+    "timeWeek": 1632,
     "timeMonth": 1499,
     "timeYear": 2036,
     "dailyMinutesDown": {
@@ -273,7 +273,7 @@
       "2026-11-19": 260,
       "2026-11-20": 224,
       "2026-11-21": 175,
-      "2026-11-22": 89
+      "2026-11-22": 97
     }
   },
   {
@@ -511,7 +511,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-22": 741,
+      "2026-11-22": 751,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1566,7 +1566,7 @@
     "status": "up",
     "uptime": "88.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.33%",
+    "uptimeWeek": "64.42%",
     "uptimeMonth": "79.23%",
     "uptimeYear": "74.64%",
     "time": 1432,
