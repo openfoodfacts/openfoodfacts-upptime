@@ -255,16 +255,16 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "88.70%",
-    "uptimeWeek": "89.99%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "89.96%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.81%",
-    "time": 2150,
-    "timeDay": 1376,
+    "time": 2146,
+    "timeDay": 1386,
     "timeWeek": 1631,
-    "timeMonth": 1495,
+    "timeMonth": 1496,
     "timeYear": 2031,
     "dailyMinutesDown": {
       "2026-11-18": 167,
@@ -272,7 +272,7 @@
       "2026-11-20": 224,
       "2026-11-21": 175,
       "2026-11-22": 180,
-      "2026-11-23": 11
+      "2026-11-23": 13
     }
   },
   {
@@ -510,7 +510,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-23": 141,
+      "2026-11-23": 147,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1564,9 +1564,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.74%",
-    "uptimeDay": "82.67%",
+    "uptimeDay": "82.23%",
     "uptimeWeek": "70.18%",
-    "uptimeMonth": "78.66%",
+    "uptimeMonth": "78.65%",
     "uptimeYear": "74.60%",
     "time": 1434,
     "timeDay": 0,
@@ -1709,7 +1709,7 @@
       "2026-11-17": 65,
       "2026-11-20": 1318,
       "2026-11-19": 282,
-      "2026-11-23": 142,
+      "2026-11-23": 149,
       "2026-11-22": 107
     }
   },
