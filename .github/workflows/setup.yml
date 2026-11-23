@@ -35,7 +35,7 @@ jobs:
       - name: Create GitHub App token
         id: app_token
         if: ${{ vars.GH_APP_ID != '' && env.GH_APP_PRIVATE_KEY != '' }}
-        uses: actions/create-github-app-token@v3
+        uses: actions/create-github-app-token@v3.4.0
         with:
           client-id: ${{ vars.GH_APP_ID }}
           private-key: ${{ env.GH_APP_PRIVATE_KEY }}
@@ -44,7 +44,7 @@ jobs:
         shell: bash
         run: echo "GH_APP_PRIVATE_KEY=" >> "$GITHUB_ENV"
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v6.1.0
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
@@ -70,14 +70,14 @@ jobs:
           GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Generate graphs
         id: dispatch_graphs
-        uses: benc-uk/workflow-dispatch@v1
+        uses: benc-uk/workflow-dispatch@v1.3.3
         continue-on-error: true
         with:
           workflow: Graphs CI
           token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
       - name: Setup Node.js for direct graph generation
         if: steps.dispatch_graphs.outcome == 'failure'
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v6.5.0
         with:
           node-version: "20"
       - name: Generate graphs directly if dispatch fails
@@ -93,7 +93,7 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
-      - uses: peaceiris/actions-gh-pages@v4
+      - uses: peaceiris/actions-gh-pages@v4.1.0
         name: GitHub Pages Deploy
         with:
           github_token: ${{ steps.app_token.outputs.token || secrets.GH_PAT || github.token }}
