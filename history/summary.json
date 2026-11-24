@@ -255,15 +255,15 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "84.02%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "97.78%",
+    "uptimeDay": "83.77%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "97.77%",
     "uptimeYear": "99.81%",
-    "time": 2195,
-    "timeDay": 1294,
-    "timeWeek": 1604,
+    "time": 2191,
+    "timeDay": 1305,
+    "timeWeek": 1605,
     "timeMonth": 1486,
     "timeYear": 2023,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
       "2026-11-21": 175,
       "2026-11-22": 180,
       "2026-11-23": 287,
-      "2026-11-24": 64
+      "2026-11-24": 68
     }
   },
   {
@@ -508,7 +508,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-24": 716,
+      "2026-11-24": 721,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -824,9 +824,9 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "85.64%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "94.83%",
     "time": 4615,
     "timeDay": 773,
@@ -898,7 +898,7 @@
       "2026-11-09": 579,
       "2026-11-08": 1395,
       "2026-11-11": 6,
-      "2026-11-24": 207
+      "2026-11-24": 212
     }
   },
   {
@@ -1407,17 +1407,17 @@
     "url": "https://world.openpetfoodfacts.org",
     "icon": "https://icons.duckduckgo.com/ip3/world.openpetfoodfacts.org.ico",
     "slug": "open-pet-food-facts",
-    "status": "down",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "88.71%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "88.69%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "99.63%",
     "time": 1410,
-    "timeDay": 1591,
-    "timeWeek": 1491,
-    "timeMonth": 1407,
-    "timeYear": 1426,
+    "timeDay": 1252,
+    "timeWeek": 1394,
+    "timeMonth": 1389,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-12-02": 4,
       "2025-12-27": 10,
@@ -1438,7 +1438,7 @@
       "2026-10-15": 128,
       "2026-11-18": 653,
       "2026-11-17": 299,
-      "2026-11-24": 186
+      "2026-11-24": 188
     }
   },
   {
@@ -1566,7 +1566,7 @@
     "slug": "datasette-instance-mirabelle",
     "status": "up",
     "uptime": "88.71%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "97.92%",
     "uptimeWeek": "70.78%",
     "uptimeMonth": "77.27%",
     "uptimeYear": "74.48%",
