@@ -255,23 +255,23 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "81.83%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "99.81%",
-    "time": 2172,
-    "timeDay": 1383,
-    "timeWeek": 1611,
-    "timeMonth": 1486,
+    "time": 2168,
+    "timeDay": 1360,
+    "timeWeek": 1607,
+    "timeMonth": 1485,
     "timeYear": 2022,
     "dailyMinutesDown": {
-      "2026-11-20": 211,
+      "2026-11-20": 198,
       "2026-11-21": 175,
       "2026-11-22": 180,
       "2026-11-23": 287,
-      "2026-11-24": 141
+      "2026-11-24": 143
     }
   },
   {
@@ -507,7 +507,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-24": 924,
+      "2026-11-24": 954,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -823,10 +823,10 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "71.21%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.79%",
+    "uptimeDay": "69.13%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.78%",
     "time": 4615,
     "timeDay": 773,
     "timeWeek": 840,
@@ -897,7 +897,7 @@
       "2026-11-09": 579,
       "2026-11-08": 1395,
       "2026-11-11": 6,
-      "2026-11-24": 415
+      "2026-11-24": 445
     }
   },
   {
