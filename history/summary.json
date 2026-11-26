@@ -255,22 +255,22 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "97.51%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.79%",
     "time": 2124,
-    "timeDay": 1610,
-    "timeWeek": 1428,
+    "timeDay": 1593,
+    "timeWeek": 1422,
     "timeMonth": 1482,
     "timeYear": 2002,
     "dailyMinutesDown": {
-      "2026-11-23": 267,
+      "2026-11-23": 255,
       "2026-11-24": 213,
       "2026-11-25": 374,
-      "2026-11-26": 244
+      "2026-11-26": 246
     }
   },
   {
@@ -505,7 +505,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-26": 1281,
+      "2026-11-26": 1315,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -823,10 +823,10 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "88.34%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "93.83%",
-    "uptimeYear": "94.75%",
+    "uptimeDay": "85.97%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "94.74%",
     "time": 4611,
     "timeDay": 3251,
     "timeWeek": 1481,
@@ -897,7 +897,7 @@
       "2026-11-08": 1395,
       "2026-11-11": 6,
       "2026-11-24": 488,
-      "2026-11-26": 168
+      "2026-11-26": 202
     }
   },
   {
@@ -1565,9 +1565,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.70%",
-    "uptimeDay": "64.48%",
+    "uptimeDay": "62.11%",
     "uptimeWeek": "71.76%",
-    "uptimeMonth": "76.10%",
+    "uptimeMonth": "76.02%",
     "uptimeYear": "74.38%",
     "time": 1469,
     "timeDay": 370,
@@ -1712,7 +1712,7 @@
       "2026-11-19": 282,
       "2026-11-23": 752,
       "2026-11-22": 107,
-      "2026-11-26": 512
+      "2026-11-26": 546
     }
   },
   {
