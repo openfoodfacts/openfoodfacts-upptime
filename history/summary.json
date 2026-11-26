@@ -255,22 +255,22 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "80.58%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "80.68%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "99.80%",
     "time": 2124,
-    "timeDay": 1668,
-    "timeWeek": 1439,
-    "timeMonth": 1485,
+    "timeDay": 1664,
+    "timeWeek": 1436,
+    "timeMonth": 1484,
     "timeYear": 2002,
     "dailyMinutesDown": {
-      "2026-11-23": 241,
+      "2026-11-23": 223,
       "2026-11-24": 213,
       "2026-11-25": 374,
-      "2026-11-26": 265
+      "2026-11-26": 267
     }
   },
   {
@@ -505,7 +505,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-26": 1375,
+      "2026-11-26": 1382,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -823,9 +823,9 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "81.82%",
-    "uptimeWeek": "92.57%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "81.36%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "94.73%",
     "time": 4611,
     "timeDay": 3251,
@@ -897,7 +897,7 @@
       "2026-11-08": 1395,
       "2026-11-11": 6,
       "2026-11-24": 488,
-      "2026-11-26": 262
+      "2026-11-26": 268
     }
   },
   {
@@ -1565,10 +1565,10 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.69%",
-    "uptimeDay": "57.96%",
+    "uptimeDay": "57.50%",
     "uptimeWeek": "71.76%",
-    "uptimeMonth": "75.89%",
-    "uptimeYear": "74.37%",
+    "uptimeMonth": "75.87%",
+    "uptimeYear": "74.36%",
     "time": 1469,
     "timeDay": 370,
     "timeWeek": 5999,
@@ -1712,7 +1712,7 @@
       "2026-11-19": 282,
       "2026-11-23": 752,
       "2026-11-22": 107,
-      "2026-11-26": 605
+      "2026-11-26": 612
     }
   },
   {
