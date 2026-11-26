@@ -255,23 +255,23 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "82.29%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "99.80%",
-    "time": 2152,
-    "timeDay": 1473,
-    "timeWeek": 1406,
-    "timeMonth": 1477,
+    "time": 2148,
+    "timeDay": 1461,
+    "timeWeek": 1404,
+    "timeMonth": 1476,
     "timeYear": 2002,
     "dailyMinutesDown": {
-      "2026-11-22": 68,
+      "2026-11-22": 61,
       "2026-11-23": 287,
       "2026-11-24": 213,
       "2026-11-25": 374,
-      "2026-11-26": 110
+      "2026-11-26": 112
     }
   },
   {
@@ -409,7 +409,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.13%",
+    "uptimeYear": "55.12%",
     "time": 1193,
     "timeDay": 0,
     "timeWeek": 0,
@@ -506,7 +506,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-26": 947,
+      "2026-11-26": 954,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -1095,7 +1095,7 @@
     "timeDay": 2767,
     "timeWeek": 3766,
     "timeMonth": 3848,
-    "timeYear": 4384,
+    "timeYear": 4386,
     "dailyMinutesDown": {
       "2025-11-29": 5,
       "2025-11-30": 7,
@@ -1566,9 +1566,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.72%",
-    "uptimeDay": "87.64%",
-    "uptimeWeek": "73.84%",
-    "uptimeMonth": "76.86%",
+    "uptimeDay": "87.18%",
+    "uptimeWeek": "73.77%",
+    "uptimeMonth": "76.85%",
     "uptimeYear": "74.45%",
     "time": 1469,
     "timeDay": 370,
@@ -1713,7 +1713,7 @@
       "2026-11-19": 282,
       "2026-11-23": 752,
       "2026-11-22": 107,
-      "2026-11-26": 178
+      "2026-11-26": 185
     }
   },
   {
