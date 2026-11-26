@@ -255,23 +255,22 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "79.38%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "97.55%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "79.21%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.80%",
-    "time": 2131,
-    "timeDay": 1510,
-    "timeWeek": 1409,
-    "timeMonth": 1478,
+    "time": 2127,
+    "timeDay": 1493,
+    "timeWeek": 1407,
+    "timeMonth": 1477,
     "timeYear": 2001,
     "dailyMinutesDown": {
-      "2026-11-22": 13,
       "2026-11-23": 287,
       "2026-11-24": 213,
       "2026-11-25": 374,
-      "2026-11-26": 195
+      "2026-11-26": 197
     }
   },
   {
@@ -506,7 +505,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-26": 1115,
+      "2026-11-26": 1129,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -824,10 +823,10 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "94.78%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "94.77%",
     "time": 4611,
     "timeDay": 3251,
     "timeWeek": 1481,
@@ -898,7 +897,7 @@
       "2026-11-08": 1395,
       "2026-11-11": 6,
       "2026-11-24": 488,
-      "2026-11-26": 2
+      "2026-11-26": 16
     }
   },
   {
@@ -1566,9 +1565,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.71%",
-    "uptimeDay": "75.99%",
-    "uptimeWeek": "72.17%",
-    "uptimeMonth": "76.48%",
+    "uptimeDay": "75.01%",
+    "uptimeWeek": "72.03%",
+    "uptimeMonth": "76.45%",
     "uptimeYear": "74.41%",
     "time": 1469,
     "timeDay": 370,
@@ -1713,7 +1712,7 @@
       "2026-11-19": 282,
       "2026-11-23": 752,
       "2026-11-22": 107,
-      "2026-11-26": 346
+      "2026-11-26": 360
     }
   },
   {
@@ -1826,7 +1825,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nutripatrol.openfoodfacts.net.ico",
     "slug": "nutri-patrol-staging",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
