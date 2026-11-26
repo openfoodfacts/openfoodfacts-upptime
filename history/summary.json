@@ -255,22 +255,22 @@
     "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=banania&search_simple=1&action=process&json=1",
     "icon": "https://icons.duckduckgo.com/ip3/world.openfoodfacts.org.ico",
     "slug": "search-api-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "79.94%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "79.61%",
+    "uptimeWeek": "89.44%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.80%",
     "time": 2115,
-    "timeDay": 1703,
-    "timeWeek": 1449,
-    "timeMonth": 1487,
+    "timeDay": 1741,
+    "timeWeek": 1455,
+    "timeMonth": 1489,
     "timeYear": 2002,
     "dailyMinutesDown": {
       "2026-11-23": 194,
       "2026-11-24": 213,
       "2026-11-25": 374,
-      "2026-11-26": 287
+      "2026-11-26": 292
     }
   },
   {
@@ -408,7 +408,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.04%",
+    "uptimeYear": "55.03%",
     "time": 1193,
     "timeDay": 0,
     "timeWeek": 0,
@@ -505,7 +505,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 727,
-      "2026-11-26": 1414,
+      "2026-11-26": 1421,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -823,9 +823,9 @@
     "slug": "robotoff",
     "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "78.64%",
+    "uptimeWeek": "92.11%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "94.72%",
     "time": 4610,
     "timeDay": 5915,
@@ -897,7 +897,7 @@
       "2026-11-08": 1395,
       "2026-11-11": 6,
       "2026-11-24": 488,
-      "2026-11-26": 301
+      "2026-11-26": 308
     }
   },
   {
@@ -1565,9 +1565,9 @@
     "slug": "datasette-instance-mirabelle",
     "status": "down",
     "uptime": "88.69%",
-    "uptimeDay": "55.27%",
+    "uptimeDay": "54.78%",
     "uptimeWeek": "71.76%",
-    "uptimeMonth": "75.80%",
+    "uptimeMonth": "75.78%",
     "uptimeYear": "74.36%",
     "time": 1469,
     "timeDay": 440,
@@ -1712,7 +1712,7 @@
       "2026-11-19": 282,
       "2026-11-23": 752,
       "2026-11-22": 107,
-      "2026-11-26": 644
+      "2026-11-26": 651
     }
   },
   {
